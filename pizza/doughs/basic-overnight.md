@@ -1,10 +1,8 @@
-# Pizza Dough
-
-# Pizza Sauce
+# Basic Overnight Pizza Dough
 
 > Starting points: 
-> - http://chelotti.net/pizzadough/
 > - https://www.foodnetwork.com/recipes/alton-brown/the-last-pizza-dough-ill-ever-need-8132795
+> - http://chelotti.net/pizzadough/
 
 ## Ingredients
 
@@ -73,4 +71,4 @@
 
 ## History
 
-- 2025/01/01: 1227g (target: 1240g). to fridge 18:20. 4 rounds of 3 folds + minute rest to pass windowpane. giusto's organic "00" pizza
+- 2025/01/01-02: 1227g (target: 1240g). to fridge 18:20. 4 rounds of 3 folds + minute rest to (barely) pass windowpane. giusto's organic "00" pizza. tripled in volume overnight.
