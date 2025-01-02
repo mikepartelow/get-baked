@@ -13,6 +13,11 @@
 - 15g extra virgin olive oil
 - 455g water @ 43C
 
+## 🚨 Important!
+
+- Measure water before heating it up. You'll use some for proofing the yeast, then later use the rest. It's easier to measure it all up front.
+
+
 ### Baker’s Percentage
 > [Baker's Percentage](https://www.kingarthurbaking.com/pro/reference/bakers-percentage)
 
