@@ -1,4 +1,4 @@
-# Basic Overnight Pizza Dough
+# Alton's Overnight Pizza Dough
 
 > Starting points: 
 > - https://www.foodnetwork.com/recipes/alton-brown/the-last-pizza-dough-ill-ever-need-8132795
@@ -70,9 +70,11 @@
 6. Cover each ball with a clean kitchen towel and set aside for 30 minutes at room temperature.
 
 ## Things to try
+- [ ] oilier dough
 - [ ] how to more uniformly incorporate the olive oil? kinda lumpy
 - [ ] instant yeast
 - [ ] letting dough proof a little before putting in fridge
+- [ ] proofing box on Day 1 (what temp?)
 
 ## History
 
