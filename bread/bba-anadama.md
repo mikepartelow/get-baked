@@ -53,31 +53,29 @@
 
 ### Baker’s Percentage
 
-> [Baker's Percentage](https://www.kingarthurbaking.com/pro/reference/bakers-percentage)
-> [Reinhart's Method](https://www.thefreshloaf.com/node/42704/understanding-peter-reinhart’s-baker’s-percentage-formulas-bread)
+> - [Baker's Percentage](https://www.kingarthurbaking.com/pro/reference/bakers-percentage)
+> - [Reinhart's Method](https://www.thefreshloaf.com/node/42704/understanding-peter-reinhart’s-baker’s-percentage-formulas-bread)
 
 #### Soaker
 
-| Ingredient | Mass  | Percentage |
-| ---------- | ----- | ---------- |
-| Cornmeal   | 170g  | 100        |
-| Water      | 227g  | 134%       |
-| ---------- | ----- | ---------- |
-| Total      | 397g  | 234%       | 
+| Ingredient | Mass  | BP % |
+| ---------- | ----- | ---- |
+| Cornmeal   | 170g  | 100  |
+| Water      | 227g  | 134  |
+| **Total**  | 397g  | 234  | 
 
 #### Dough
 
-| Ingredient | Mass    | Percentage |
-| ---------- | ------- | ---------- |
-| Flour      | 574g    | 100%       |
-| Soaker     | 397g    | 69%        |
-| Water      | 227g    | 39.5%      |
-| Molasses   | 113g    | 20%        |
-| Butter     | 28g     | 4.9%       |
-| Salt       | 10.7g   | 1.9%       |
-| I Yeast    | 6.2g    | 1.1%       |
-| ---------- | ------- | ---------- |
-| Total      | 1356g   | 236%       |
+| Ingredient | Mass    | BP % |
+| ---------- | ------- | ----- |
+| Flour      | 574g    | 100   |
+| Soaker     | 397g    | 69    |
+| Water      | 227g    | 39.5  |
+| Molasses   | 113g    | 20    |
+| Butter     | 28g     | 4.9   |
+| Salt       | 10.7g   | 1.9   |
+| I Yeast    | 6.2g    | 1.1   |
+| **Total**  | 1356g   | 236   |
 
 
 ## Equipment
@@ -118,16 +116,17 @@
 6. Add more flour if dough is sticky.
 7. When dough passes Windowpane Test, stop kneading.
 8. Lightly oil a bowl or dough bucket and add the dough.
-9. Note dough temperature and weight. Temperature should read 77-81F.
+9. Note dough temperature and weight. **Desired Dough Temperature:** 77-81F.
 10. Ferment in Proofer Box until the dough doubles in size (likely at least 90m).
 11. On a floured surface, divide dough into 2 or 3 pieces. 3 loaves if using USA Pan Smalls, 2 loaves if using Larges.
-12. Form into loaves. 
+12. Form into loaves. See BBA page 82.
 13. Add to loaf pans.
 14. Note dough temperature.
 15. 🚨 Preheat oven to 350F 🚨
 16. Proof loaves in Proofer Box at 80-85F for at least 60-90m. 
-17. Remove loaves from proofer when dough clears the tops of the loaf pans.
+17. Remove loaves from proofer when dough clears the tops of the loaf pans. Not before!
 18. Mist loaves with water, sprinkle cornmeal on top.
+    - Don't under-mist. The mist enables oven spring.
 19. Bake loaves in oven for 20m.
 20. Rotate loaves. Bake another 20-30m, until well browned and internal temperature is at least 185F.
 21. Remove loaves from oven. Note temperature. Remove loaves from pans and rest on resting rack for 1h.
@@ -135,6 +134,7 @@
 ## Things to try
 
 - [ ] use proofer box for the sponge
+- [ ] 10s of steam when loaves go in, vent at 6m (borrowed from Kalanty HHW)
 
 ## History
 
@@ -160,3 +160,4 @@ Day 1:
 
 Total Time: 5h40m (5h30m estimated)
 Yield: 1428g/1356g = 105%
+Review: Although the loaves are small, the bread is delicious, the crumb is not overly dense, the crust is crackly.
