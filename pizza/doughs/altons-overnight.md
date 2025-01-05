@@ -49,16 +49,19 @@
    2. let sit for 5-10 minutes (proceed to dough step 2 while waiting)
    3. mixture should foam and bubble
 2. Mix flour, sugar, salt with a whisk in a large mixing bowl.
-3. Add olive oil to the large mixing bowl.
-4. Once yeast is proofed, add it to the mixing bowl.
-5. Mix with the spatula until dough comes together.
-6. Place dough on floured silpat or cutting board.
-7. Fold dough three times.
-8. Let dough rest for a minute. 
-9. Windowpane test. If dough does not pass, go back to step 7.
-10. Mass the dough and record final dough mass and flour type used.
-11. Add to oiled proofing bucket. Cover loosely. Mark dough level.
-12. Put in fridge for 18-24 hours.
+3. Once yeast is proofed...
+   1. Make a well in the center of the dry ingredients.
+   2. Slowly add olive oil to the well, mixing with the other ingredients.
+   3. Slowly add the proofed yeast to the well, mixing with the other ingredients.
+   4. Add the remaining water.
+4. Mix with the spatula until dough comes together.
+5. Place dough on floured silpat or cutting board.
+6. Fold dough three times.
+7. Let dough rest for a minute. 
+8. Windowpane test. If dough does not pass, go back to step 7.
+9. Mass the dough and record final dough mass and flour type used.
+10. Add to oiled proofing bucket. Cover loosely. Mark dough level.
+11. Put in fridge for 18-24 hours.
 
 ### Day 1: Baking Day
 
@@ -67,14 +70,11 @@
 3. Cut log into thirds. 
 4. [Optional] Moisten the counter with water to up the surface tension a bit so that the ball tightens up instead of sliding across the counter.
 5. Shape each third into a disk, then shape the disks into smooth balls. 
-6. Cover each ball with a clean kitchen towel and set aside for 30 minutes at room temperature.
+6. Cover each ball with a clean kitchen towel and set aside for 30 minutes in a Proofer Box at 70-75F, or at room temperature.
 
 ## Things to try
 - [ ] oilier dough
-- [ ] how to more uniformly incorporate the olive oil? kinda lumpy
 - [ ] instant yeast
-- [ ] letting dough proof a little before putting in fridge
-- [ ] proofing box on Day 1 (what temp?)
 
 ## History
 
