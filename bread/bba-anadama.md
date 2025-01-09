@@ -12,6 +12,8 @@
 - 🚨🚨 Remember to preheat the oven!
 - 🚨🚨🚨 Ignore timings - pay attention to the dough. 
 - 🚨🚨🚨🚨 Before going into oven, dough should clear the tops of the loaf pans.
+- 🚨🚨🚨🚨🚨 Use steam injection
+- 🚨🚨🚨🚨🚨🚨 Poke test!
 
 ## Schedule
 
@@ -101,7 +103,8 @@
 
 ### Day 0: Soaker Day
 
-1. Mix cornmeal and 227g of water in a small bowl. Cover. Let sit overnight at room temperature.
+1. Remove butter from fridge. Mise en place for next morning.
+2. Mix cornmeal and 227g of water in a small bowl. Cover. Let sit overnight at room temperature.
 
 ### Day 1: Baking Day
 
@@ -112,29 +115,39 @@
     3. Ferment Sponge for 60m or until it bubbles, whichever is longer.
 3. Add remaining flour, salt, molasses, and butter.
 4. Stir or mix in mixer until ingredients form a ball.
-5. Knead dough on floured surface, or in mixer at medium, about 6-8 minutes in the mixer or 10 minutes by hand.
+5. Knead dough on floured surface, or in mixer at medium, about 8-10 minutes in the mixer (setting 2 of 4) or 10 minutes by hand.
 6. Add more flour if dough is sticky.
-7. When dough passes Windowpane Test, stop kneading.
+7. When dough absolutely aces (not just "passes") Windowpane Test, stop kneading.
 8. Lightly oil a bowl or dough bucket and add the dough.
 9. Note dough temperature and weight. **Desired Dough Temperature:** 77-81F.
 10. Ferment in Proofer Box until the dough doubles in size (likely at least 90m).
-11. On a floured surface, divide dough into 2 or 3 pieces. 3 loaves if using USA Pan Smalls, 2 loaves if using Larges.
-12. Form into loaves. See BBA page 82.
-13. Add to loaf pans.
-14. Note dough temperature.
-15. 🚨 Preheat oven to 350F 🚨
-16. Proof loaves in Proofer Box at 80-85F for at least 60-90m. 
-17. Remove loaves from proofer when dough clears the tops of the loaf pans. Not before!
-18. Mist loaves with water, sprinkle cornmeal on top.
+11. On a floured surface, degass the dough.
+12. Divide dough into 2 or 3 pieces. 3 loaves if using USA Pan Smalls, 2 loaves if using Larges.
+13. Form into loaves. See BBA page 82 or Artisan Breads Every Day page 23.
+14. Add to loaf pans. 🚨 Dough should touch all edges of pan, not shrink in the middle. 🚨
+15. Note dough temperature.
+16. 🚨 Preheat oven to 375F (BBA says 350) 🚨 Set for steam injection 🚨
+17. Proof loaves in Proofer Box at 80-85F for at least 60-90m. 
+18. Remove loaves from proofer when dough clears the tops of the loaf pans. Not before!
+19. 🚨 Perform the poke test 🚨
+20. Mist loaves with water, sprinkle cornmeal on top.
     - Don't under-mist. The mist enables oven spring.
-19. Bake loaves in oven for 20m.
-20. Rotate loaves. Bake another 20-30m, until well browned and internal temperature is at least 185F.
-21. Remove loaves from oven. Note temperature. Remove loaves from pans and rest on resting rack for 1h.
+21. Bake loaves in oven for 20m. 🚨 Use steam injection 🚨 (and record its use)
+22. Rotate loaves. Bake another 20-30m, until well browned and internal temperature is at least 185F.
+23. Remove loaves from oven. Note temperature. Remove loaves from pans and rest on resting rack for 1h.
 
 ## Things to try
 
-- [ ] use proofer box for the sponge
-- [ ] 10s of steam when loaves go in, vent at 6m (borrowed from Kalanty HHW)
+- [ ] longer primary fermentation, less longer proof
+- [ ] we expect 1" over the pan edge, not "just barely"
+- [ ] maximize oven spring: how?
+    - [ ] perform a poke test: Gently press your fingertip into the dough. If it springs back quickly, it’s underproofed. If it doesn’t spring back at all, it’s overproofed. Ideally, it should spring back slowly.
+    - [ ] knead longer: 10m is OK
+    - [ ] inject steam when adding bread, not before
+    - [ ] use 9x5 not 10x5 pans
+    - [ ] full 8m of kneading
+    - [ ] bake 375F
+
 
 ## History
 
@@ -154,10 +167,39 @@ Day 1:
 - 1205: Fermentation done. Dough mass: 1428.5g. Divided and shaped into three loaves.
 - 1215: To Proofer Box @ 85F. Internal dough temp: 73F. (🚨 due to user error, proofer was unpowered for 45m!)
 - 1344: Remove from proofer. Spray, dust with cornmeal, place loaf pans on a baking sheet.
-- 1346: Baking sheet with loaf pans to oven.
+- 1346: Baking sheet with loaf pans to oven @ 350F.
 - 1410: Rotate loaves.
 - 1430: Loaves out, on to resting racks.
 
 Total Time: 5h40m (5h30m estimated)
 Yield: 1428g/1356g = 105%
 Review: Although the loaves are small, the bread is delicious, the crumb is not overly dense, the crust is crackly.
+
+### 2025/01/08-09
+
+Day 1:
+    0720: Prepare sponge (243g flour)
+    0730: Sponge to proofer @76F
+    0846: mix: quick hand mix, then to mixer with dough hook on speed 1
+    0846: knead in mixer on setting 2, 6m +1m30s
+    0902: passed windowpane test, added only a little flour. internal temp 75F
+    0905: to proofer @80F, misted top
+    1037: dough has doubled, divided 1366g dough into TWO loaves into two 10x5x3" pans
+    1044: dough to proofer @80f, misted tops. Internal dough temp 75F.
+    1215: preheat oven to 350F, steam injection enabled (manual mode)
+    1240: activated manual steam burst, which adds steam to oven on demand and deactivates after 8-10m
+    1251: loaves barely cleared top of pans, misted, dusted, to (steamy) oven
+    1300: very little oven spring
+    1311: rotate
+    1333: out. internal temp 206F
+
+Total Time: 6h13m
+Yield: 1336g/1356g = 98.5%
+Review: fluffier texture and better flavor than previous (which had an off-aftertaste). Crust is soft and separated from crumb.
+Next time: 
+- Knead longer to more authoritatively pass Windowpane. 
+- Degass after fermentation. 
+- Spread dough to cover pan.
+- Poke test proofing. 
+- Inject steam when adding loaf, not before. 
+- Bake at 375F, not 350F.
