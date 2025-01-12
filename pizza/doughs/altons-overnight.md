@@ -45,7 +45,7 @@
 ### Day 0: Dough Day
 
 1. Proof the yeast.
-   1. mix 1-4g of the sugar, all the yeast, and 120g of the water
+   1. mix 4g of the sugar, all the yeast, and 120g of the water
    2. let sit for 5-10 minutes (proceed to dough step 2 while waiting)
    3. mixture should foam and bubble
 2. Mix flour, sugar, salt with a whisk in a large mixing bowl.
@@ -56,12 +56,11 @@
    4. Add the remaining water.
 4. Mix with the spatula until dough comes together.
 5. Place dough on floured silpat or cutting board.
-6. Fold dough three times.
-7. Let dough rest for a minute. 
-8. Windowpane test. If dough does not pass, go back to step 7.
-9. Mass the dough and record final dough mass and flour type used.
-10. Add to oiled proofing bucket. Cover loosely. Mark dough level.
-11. Put in fridge for 18-24 hours.
+6. Fold dough three times, 🚨 with 5m rest in between 🚨.
+7. Windowpane test. If dough does not pass, do another fold.
+8. Mass the dough and record final dough mass and flour type used.
+9. Add to oiled proofing bucket. Cover loosely. Mark dough level.
+10. Put in fridge for 18-24 hours.
 
 ### Day 1: Baking Day
 
@@ -78,4 +77,11 @@
 
 ## History
 
-- 2025/01/01-02: 1227g (target: 1240g). to fridge 18:20. 4 rounds of 3 folds + minute rest to (barely) pass windowpane. giusto's organic "00" pizza. tripled in volume overnight.
+### 2025/01/01-02
+- 1227g (target: 1240g). to fridge 18:20. 4 rounds of 3 folds + minute rest to (barely) pass windowpane. giusto's organic "00" pizza. tripled in volume overnight.
+
+### 2025/01/10-11 
+- giusto's organic "00" pizza. 1221g dough weight.
+- > tripled in volume
+- cut into 2 pieces, not 3
+- proofer box @ 80F. proofed  

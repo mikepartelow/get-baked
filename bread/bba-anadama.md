@@ -121,9 +121,9 @@
 8. Lightly oil a bowl or dough bucket and add the dough.
 9. Note dough temperature and weight. **Desired Dough Temperature:** 77-81F.
 10. Ferment in Proofer Box until the dough doubles in size (likely at least 90m).
-11. On a floured surface, degass the dough.
+11. On a floured surface, gently degass the dough.
 12. Divide dough into 2 or 3 pieces. 3 loaves if using USA Pan Smalls, 2 loaves if using Larges.
-13. Form into loaves. See BBA page 82 or Artisan Breads Every Day page 23.
+13. Form into loaves. See BBA page 82 or Artisan Breads Every Day page 23. Create/maintain tension in the dough.
 14. Add to loaf pans. 🚨 Dough should touch all edges of pan, not shrink in the middle. 🚨
 15. Note dough temperature.
 16. 🚨 Preheat oven to 375F (BBA says 350) 🚨 Set for steam injection 🚨
@@ -138,7 +138,8 @@
 
 ## Things to try
 
-- [ ] longer primary fermentation, less longer proof
+- [ ] longer bulk, less longer proof
+- [ ] less longer bulk, longer proof
 - [ ] we expect 1" over the pan edge, not "just barely"
 - [ ] maximize oven spring: how?
     - [ ] perform a poke test: Gently press your fingertip into the dough. If it springs back quickly, it’s underproofed. If it doesn’t spring back at all, it’s overproofed. Ideally, it should spring back slowly.
@@ -147,7 +148,7 @@
     - [ ] use 9x5 not 10x5 pans
     - [ ] full 8m of kneading
     - [ ] bake 375F
-
+- [ ] knead on speed 3
 
 ## History
 
@@ -194,6 +195,10 @@ Day 1:
     1333: out. internal temp 206F
 
 Total Time: 6h13m
+    - Knead: 7m30s
+    - Bulk: 1h32m
+    - Proof: 2h5m
+    - Bake: 42m
 Yield: 1336g/1356g = 98.5%
 Review: fluffier texture and better flavor than previous (which had an off-aftertaste). Crust is soft and separated from crumb.
 Next time: 
@@ -203,3 +208,9 @@ Next time:
 - Poke test proofing. 
 - Inject steam when adding loaf, not before. 
 - Bake at 375F, not 350F.
+
+### 2025/01/11-12
+
+Day 1:
+- 0815: MEP, prepare sponge. Using SAF-Instant "Premium"
+- 0825: Sponge to proofer @80F
