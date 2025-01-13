@@ -11,9 +11,11 @@
 - 🚨 Proofer Box the sponge.
 - 🚨🚨 Remember to preheat the oven!
 - 🚨🚨🚨 Ignore timings - pay attention to the dough. 
-- 🚨🚨🚨🚨 Before going into oven, dough should clear the tops of the loaf pans.
+- 🚨🚨🚨🚨 Before going into oven, dough should **confidently** clear the tops of the loaf pans.
 - 🚨🚨🚨🚨🚨 Use steam injection
 - 🚨🚨🚨🚨🚨🚨 Poke test!
+- 🚨🚨 Note initial dough volume so you can tell when it has bulked! 🚨🚨
+- 🚨🚨🚨🚨🚨🚨🚨🚨 Shape with tension! 🚨🚨🚨🚨🚨🚨🚨🚨
 
 ## Schedule
 
@@ -49,7 +51,7 @@
 - Sponge
 - 330g Flour
 - 113g molasses
-- 28g unsalted butter (2 Tbsp)
+- 28g unsalted butter (2 Tbsp), cut into small pieces.
 - 10.7g salt
 
 
@@ -108,7 +110,7 @@
 
 ### Day 1: Baking Day
 
-1. Turn on Proofer Box, set to 80-85F.
+1. Turn on Proofer Box, set to 77F.
 2. Prepare Sponge.
     1. In large mixing bowl, mix 243g of flour with yeast, Soaker, and water @ 38C.
     2. Place Sponge in Proofer Box.
@@ -117,21 +119,21 @@
 4. Stir or mix in mixer until ingredients form a ball.
 5. Knead dough on floured surface, or in mixer at medium, about 8-10 minutes in the mixer (setting 2 of 4) or 10 minutes by hand.
 6. Add more flour if dough is sticky.
-7. When dough absolutely aces (not just "passes") Windowpane Test, stop kneading.
+7. When dough absolutely aces (not just "passes") Windowpane Test, stop kneading. 
 8. Lightly oil a bowl or dough bucket and add the dough.
 9. Note dough temperature and weight. **Desired Dough Temperature:** 77-81F.
-10. Ferment in Proofer Box until the dough doubles in size (likely at least 90m).
+10. Ferment in Proofer Box until the dough gets to 150% original size (60ish min). 🚨🚨 Note initial dough volume 🚨🚨
 11. On a floured surface, gently degass the dough.
 12. Divide dough into 2 or 3 pieces. 3 loaves if using USA Pan Smalls, 2 loaves if using Larges.
-13. Form into loaves. See BBA page 82 or Artisan Breads Every Day page 23. Create/maintain tension in the dough.
+13. Form into loaves. See BBA page 82 or Artisan Breads Every Day page 23. 🚨🚨 Create/maintain tension in the dough. 🚨🚨
 14. Add to loaf pans. 🚨 Dough should touch all edges of pan, not shrink in the middle. 🚨
 15. Note dough temperature.
-16. 🚨 Preheat oven to 375F (BBA says 350) 🚨 Set for steam injection 🚨
-17. Proof loaves in Proofer Box at 80-85F for at least 60-90m. 
+16. 🚨 Preheat oven to 375F (BBA says 350 but 375 gives better crust) 🚨 Set for steam injection 🚨
+17. Proof loaves in Proofer Box at 77F for at least 60-90m. 
 18. Remove loaves from proofer when dough clears the tops of the loaf pans. Not before!
 19. 🚨 Perform the poke test 🚨
 20. Mist loaves with water, sprinkle cornmeal on top.
-    - Don't under-mist. The mist enables oven spring.
+    - Don't under-mist. The mist encourages oven spring.
 21. Bake loaves in oven for 20m. 🚨 Use steam injection 🚨 (and record its use)
 22. Rotate loaves. Bake another 20-30m, until well browned and internal temperature is at least 185F.
 23. Remove loaves from oven. Note temperature. Remove loaves from pans and rest on resting rack for 1h.
@@ -214,3 +216,29 @@ Next time:
 Day 1:
 - 0815: MEP, prepare sponge. Using SAF-Instant "Premium"
 - 0825: Sponge to proofer @80F
+- 0925: Mix.
+- 0935: knead in bosch compact bread mixer, setting 2, targeting 8m
+- 0943: to bench. adjusting flour. windowpane test. fail
+- 0947: stretch and fold. 3m rest.
+- 0950: stretch and fold. 5m rest.
+- 0957: stretch and fold. 3m rest.
+- 1000: stretch and fold. windowpane passes.
+- 1004: 73F dough internal temp, 1365g dough mass. to proof box @ 80F. also placed loaf pans in proofer.
+- 1127: degass, divide dough in half.
+- 1136: shaped, large loaf pans, to proofer @80F
+- 1302: poke test suggests good/slightly-over proof. misted, dusted, to oven @ 375F. "manual" steam on introduction.
+- 1306: steam completed.
+- 1323: turn loaves
+- 1343: out. internal temp 208. darker than previous loaves (used higher oven temp)
+
+Notes:
+- 375F gives better crust than 350
+- Unlike last batch, crust did not separate. Intended fix for crust separation was longer gluten development (knead). So presumably that worked, keeping recommendation to knead on #2 for 8+ instead of 6+.
+- I am disappointed by the oven spring on this recipe. However, most internet people (with one exception) don't get much oven spring from Anadama bread. And I have no complaints on flavor or texture. It could just be destined to be a stubby loaf.
+- Figure out how to get better oven spring.
+    - use polenta? internet commentor says this is key.
+    - Bulk ferment to 130% of original size, not 200%
+    - cooler ferment temps
+    - Better loaf shaping, esp. tension!
+
+> I've made a few more loaves of anadama bread, and I think the key is to use coarse cornmeal, which is often labled in the grocery store as polenta. I've found that I have to cook it a bit with boiling water before baking, otherwise it's pretty darned crunchy and unappetizing. But, well made, it's fairly light. I think the smaller the grains, the more the corn interferes with good gluten development. Every time I use regular cornmeal, I get a brick.

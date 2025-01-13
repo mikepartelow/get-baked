@@ -54,4 +54,7 @@
 - oven at 525, surround setting. stone preheated 30+
 - first one out 11m, a little too dry in the crust on thinner bottomed pieces, but perfect on thicker bottomed pieces. next time, try for uniform bottom thickness.
 - second out at 9m. Perfectly cooked. Dough is really doughy (too doughy? not exactly, super good) with huge bubbles and thick bottom. On part of the pizza, Trader Joe's dry sun dried tomatoes between sauce and cheese. REALLY GOOD.
-- neighbor liked it. so did i. good pizza is easy to make. excellent pizza is hard.
+- neighbor liked it. so did i. good pizza is easy to make. excellent pizza is hard. 
+- Next time:
+    - less cheese so sauce flavor comes through more
+    - make dough thinner - stretch/toss it more. if it shrinks back, let it rest and stretch/toss more.
