@@ -36,23 +36,23 @@
 
 ### Soaker
 
-- 170g coarse polenta (or coarse cornmeal if you must, but polenta is better - we want to avoid fines)
-- 227g water @ room temp
+- 251g polenta (or coarse cornmeal if you must, but polenta is better - we want to avoid fines)
+- 335g water @ room temp
 
 ### Sponge
 
 - Soaker
-- 243g bread flour
-- 227g water @ 38C
-- 6.2g instant yeast
+- 366g bread flour
+- 335g water @ 38C
+- 9.2g instant yeast
 
 ### Dough
 
 - Sponge
-- 330g Flour
-- 113g molasses
-- 28g unsalted butter (2 Tbsp), cut into small pieces.
-- 10.7g salt
+- 484g Flour
+- 167 molasses
+- 42g unsalted butter (~3 Tbsp), cut into small pieces.
+- 15.8g salt
 
 
 ### Baker’s Percentage
@@ -64,22 +64,22 @@
 
 | Ingredient | Mass  | BP % |
 | ---------- | ----- | ---- |
-| Polenta    | 170g  | 100  |
-| Water      | 227g  | 134  |
-| **Total**  | 397g  | 234  | 
+| Polenta    | 251g  | 100  |
+| Water      | 335g  | 134  |
+| **Total**  | 587g  | 234  | 
 
 #### Dough
 
 | Ingredient | Mass    | BP % |
 | ---------- | ------- | ----- |
-| Flour      | 574g    | 100   |
-| Soaker     | 397g    | 69    |
-| Water      | 227g    | 39.5  |
-| Molasses   | 113g    | 20    |
-| Butter     | 28g     | 4.9   |
-| Salt       | 10.7g   | 1.9   |
-| I Yeast    | 6.2g    | 1.1   |
-| **Total**  | 1356g   | 236   |
+| Flour      | 850g    | 100   |
+| Soaker     | 587g    | 69    |
+| Water      | 335g    | 39.5  |
+| Molasses   | 167g    | 20    |
+| Butter     | 42g     | 4.9   |
+| Salt       | 15.8g   | 1.9   |
+| I Yeast    | 9.2g    | 1.1   |
+| **Total**  | 2010g   | 236   |
 
 
 ## Equipment
@@ -106,15 +106,15 @@
 ### Day 0: Soaker Day
 
 1. Remove butter from fridge. Mise en place for next morning.
-2. Mix polenta and 227g of water in a small bowl. Cover. Let sit overnight at room temperature.
+2. Mix polenta and water in a small bowl. Cover. Let sit overnight at room temperature.
 
 ### Day 1: Baking Day
 
 1. Turn on Proofer Box, set to 77F.
 2. Prepare Sponge.
-    1. In large mixing bowl, mix 243g of flour with yeast, Soaker, and water @ 38C.
+    1. In large mixing bowl, mix sponge flour with yeast, Soaker, and water @ 38C.
     2. Place Sponge in Proofer Box.
-    3. Ferment Sponge for 60m or until it bubbles, whichever is longer.
+    3. Ferment Sponge for 60m or until it bubbles.
 3. Add remaining flour, salt, molasses, and butter.
 4. Stir or mix in mixer until ingredients form a ball.
 5. Knead dough on floured surface, or in mixer at medium, about 8-10 minutes in the mixer (setting 2 of 4) or 10 minutes by hand.
@@ -137,20 +137,6 @@
 21. Bake loaves in oven for 20m. 🚨 Use steam injection 🚨 (and record its use)
 22. Rotate loaves. Bake another 20-30m, until well browned and internal temperature is at least 185F.
 23. Remove loaves from oven. Note temperature. Remove loaves from pans and rest on resting rack for 1h.
-
-## Things to try
-
-- [ ] longer bulk, less longer proof
-- [ ] less longer bulk, longer proof
-- [ ] we expect 1" over the pan edge, not "just barely"
-- [ ] maximize oven spring: how?
-    - [ ] perform a poke test: Gently press your fingertip into the dough. If it springs back quickly, it’s underproofed. If it doesn’t spring back at all, it’s overproofed. Ideally, it should spring back slowly.
-    - [ ] knead longer: 10m is OK
-    - [ ] inject steam when adding bread, not before
-    - [ ] use 9x5 not 10x5 pans
-    - [ ] full 8m of kneading
-    - [ ] bake 375F
-- [ ] knead on speed 3
 
 ## History
 
