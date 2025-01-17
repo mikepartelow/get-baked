@@ -10,7 +10,7 @@
 
 > Makes four 14-inch pizzas
 
-- 796g all purpose flour or bread flour
+- 796g **bread** flour (**not** 00. use all purpose for a "lighter" dough)
 - 493g water @40C
 - 15.6g salt 
 - 11.8g olive oil
