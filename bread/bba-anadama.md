@@ -36,7 +36,7 @@
 
 ### Soaker
 
-- 170g coarse cornmeal (or polenta)
+- 170g coarse polenta (or coarse cornmeal if you must, but polenta is better - we want to avoid fines)
 - 227g water @ room temp
 
 ### Sponge
@@ -64,7 +64,7 @@
 
 | Ingredient | Mass  | BP % |
 | ---------- | ----- | ---- |
-| Cornmeal   | 170g  | 100  |
+| Polenta    | 170g  | 100  |
 | Water      | 227g  | 134  |
 | **Total**  | 397g  | 234  | 
 
@@ -106,7 +106,7 @@
 ### Day 0: Soaker Day
 
 1. Remove butter from fridge. Mise en place for next morning.
-2. Mix cornmeal and 227g of water in a small bowl. Cover. Let sit overnight at room temperature.
+2. Mix polenta and 227g of water in a small bowl. Cover. Let sit overnight at room temperature.
 
 ### Day 1: Baking Day
 
@@ -123,7 +123,7 @@
 8. Lightly oil a bowl or dough bucket and add the dough.
 9. Note dough temperature and weight. **Desired Dough Temperature:** 77-81F.
 10. Ferment in Proofer Box until the dough gets to 150% original size (60ish min). 🚨🚨 Note initial dough volume 🚨🚨
-11. On a floured surface, gently degass the dough.
+11. On an **unfloured** surface, gently degass the dough.
 12. Divide dough into 2 or 3 pieces. 3 loaves if using USA Pan Smalls, 2 loaves if using Larges.
 13. Form into loaves. See BBA page 82 or Artisan Breads Every Day page 23. 🚨🚨 Create/maintain tension in the dough. 🚨🚨
 14. Add to loaf pans. 🚨 Dough should touch all edges of pan, not shrink in the middle. 🚨
@@ -132,7 +132,7 @@
 17. Proof loaves in Proofer Box at 77F for at least 60-90m. 
 18. Remove loaves from proofer when dough clears the tops of the loaf pans. Not before!
 19. 🚨 Perform the poke test 🚨
-20. Mist loaves with water, sprinkle cornmeal on top.
+20. Mist loaves with water, sprinkle cornmeal or polenta on top.
     - Don't under-mist. The mist encourages oven spring.
 21. Bake loaves in oven for 20m. 🚨 Use steam injection 🚨 (and record its use)
 22. Rotate loaves. Bake another 20-30m, until well browned and internal temperature is at least 185F.
@@ -242,3 +242,32 @@ Notes:
     - Better loaf shaping, esp. tension!
 
 > I've made a few more loaves of anadama bread, and I think the key is to use coarse cornmeal, which is often labled in the grocery store as polenta. I've found that I have to cook it a bit with boiling water before baking, otherwise it's pretty darned crunchy and unappetizing. But, well made, it's fairly light. I think the smaller the grains, the more the corn interferes with good gluten development. Every time I use regular cornmeal, I get a brick.
+
+### 2025/01/15-16
+
+Day 1:
+
+- 0730: Make sponge
+- 0735: sponge to proofer @76
+- 0835: mix, knead [ POWER OUTAGE! ] - hand
+- 0900: 1440g dough to **unpowered** proofer. dough temp 70F.
+- 1000: still no power! 
+- 1010: misted loaves, covered, to **unpowered** fridge. dough feels much livelier and stronger than before (could be fooling myself).
+- 1520: loaves to proofer @76F
+- 1600: oven on to 375F
+- 1646: loaves (still cold) to oven. Burst Of Steam. 
+- 1701: adjust temp to 350F, open door a little to let out steam
+- 1716: rotate loaves
+- 1729: loaves out. internal temp 203F. 
+
+Notes:
+
+- Used **polenta** (Bob's Red Mill) instead of "cornmeal": keep using polenta 
+- Used **brer rabbit mild** molasses instead of smart & final brand: noticeably better flavor!
+- shaped on **unfloured** surface
+- power outage!! put loaves in fridge by necessity.
+- used too much oil in proofing bucket
+- starting to suspect the problem is not "oven spring" but "not enough dough to make the loaf size I want"
+    - try: scale up the recipe - 850g of flour
+    - try: scale up the yeast (without scaling the flour)
+- underproofed, too dense. but best flavor yet
