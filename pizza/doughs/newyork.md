@@ -61,7 +61,7 @@
 
 1. Remove dough balls within 1 hour of baking and allow the dough to come to room temperature. 
     1. [Recipe author](https://feelingfoodish.com/the-best-new-york-style-pizza-dough/) says: I often bake coldish dough without problems
-2. Place pizza stone in oven. Preheat to 550F, at least 1 hour.
+2. Place pizza stone in oven. Preheat to 500+F, at least 1 hour, on "surround" mode.
     1. [Recipe author](https://feelingfoodish.com/the-best-new-york-style-pizza-dough/) says:
         1. Do not place the stone near the bottom of your oven.
         2. Bake the pizza within 6 to 8 inches of the top of your oven, so that the tops browns sufficiently in conjunction with the bottom of the pizza.

@@ -9,7 +9,7 @@
 - Cheese blend:
     - Mozzarella
     - Asiago
-    - Caciocavallo (probably - have to check label at grocery next time!)
+    - Caciocavallo
 
 ## Equipment
 
