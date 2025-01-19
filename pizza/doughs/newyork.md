@@ -74,3 +74,34 @@
 5. Top with your favorite sauce, cheese, or other toppings.
     1. Not too much sauce or the pizza will be soggy.
 6. Bake 4-6 minutes until cheese has melted but not burned and is browned on top.
+
+
+## History
+
+### 2025/01/17-18
+
+#### Day 0
+
+- 1710: MEP, mix, knead by hand until passing windowpane.
+- 1740: to fridge. dough mass 1340g, @ 85F before divide/shape
+
+#### Day 1
+- 1700: dough out
+- 1830: first pizza in
+
+#### Things to try:
+- [ ] smoother sauce
+
+#### Notes:
+- I liked this dough better than Alton's.
+- Used "basic tomato sauce". Too chunky.
+- Dough dried out in fridge, because it was loosely covered. Although this affected shaping it had no apparent effect on flavor/texture.
+- Dough was too cold upon shaping - need longer and/or temp-controlled rest after fridge
+- Of the four pizzas, each crust was better than the previous.
+  - Each one had longer rest time than the previous.
+  - Good results from shaping, letting it rest/relax, then reshaping
+- No excessive rising, dough not "bready"
+- Two of the crusts were exactly what I wanted!
+- Used rice flour for peel. Should use cornmeal, tastes better.
+- Each cooked 5-7 minutes, no soggy or overcooked bottoms.
+- Need more shaping practice. One was too thin in the center, another too thick in the center.
