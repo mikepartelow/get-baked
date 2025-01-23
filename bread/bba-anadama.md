@@ -50,7 +50,7 @@
 
 - Sponge
 - 484g Flour
-- 167 molasses
+- 167g molasses
 - 42g unsalted butter (~3 Tbsp), cut into small pieces.
 - 15.8g salt
 
@@ -122,7 +122,7 @@
 7. When dough absolutely aces (not just "passes") Windowpane Test, stop kneading. 
 8. Lightly oil a bowl or dough bucket and add the dough.
 9. Note dough temperature and weight. **Desired Dough Temperature:** 77-81F.
-10. Ferment in Proofer Box until the dough gets to 150% original size (60ish min). 🚨🚨 Note initial dough volume 🚨🚨
+10. Ferment in Proofer Box until the dough doubles (60ish min). 🚨🚨 Note initial dough volume 🚨🚨
 11. On an **unfloured** surface, gently degass the dough.
 12. Divide dough into 2 or 3 pieces. 3 loaves if using USA Pan Smalls, 2 loaves if using Larges.
 13. Form into loaves. See BBA page 82 or Artisan Breads Every Day page 23. 🚨🚨 Create/maintain tension in the dough. 🚨🚨
@@ -135,7 +135,7 @@
 20. Mist loaves with water, sprinkle cornmeal or polenta on top.
     - Don't under-mist. The mist encourages oven spring.
 21. Bake loaves in oven for 20m. 🚨 Use steam injection 🚨 (and record its use)
-22. Rotate loaves. Bake another 20-30m, until well browned and internal temperature is at least 185F.
+22. Rotate loaves. Bake another 20-30m (🚨 longer when scaled up 🚨), until well browned and internal temperature is at least 185F.
 23. Remove loaves from oven. Note temperature. Remove loaves from pans and rest on resting rack for 1h.
 
 ## History
@@ -257,3 +257,25 @@ Notes:
     - try: scale up the recipe - 850g of flour
     - try: scale up the yeast (without scaling the flour)
 - underproofed, too dense. but best flavor yet
+
+### 2025/01/22-23
+
+Day 1:
+
+- 0736: sponge to proofer @80F
+- 0823: mix, hand knead
+- 0850: 2060g dough, internal temp 74F to proofer @ 80F
+- 1012: shape
+- 1018: to proofer @80F, internal temp 72F
+- 1118: to oven at 375F, burst of steam
+- 1132: adjusted oven to 350F
+- 1140: rotate
+- 1202: out. internal temp 199F-202F
+
+Notes:
+- looking like a proper loaf!!!
+- try not to add too much extra flour
+- use mixer, hand mixing is very slow
+- really need to get better at shaping a loaf
+- use convection bake, not bake
+- not underbaked, but less dry than usual due to scaleup without additional bake time. delicious as usual.

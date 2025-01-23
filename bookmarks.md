@@ -14,6 +14,14 @@
 
 - https://www.theperfectloaf.com/kamut-demi-baguettes-komo-mill-giveaway/
 
+## Pumpernickel Raisin Bread 
+
+- https://breadtopia.com/pumpernickel-raisin-bread/
+
+## Purple Sweet Potato Sourdough
+
+- https://breadtopia.com/purple-sweet-potato-sourdough-bread/
+
 ## Sourdough
 
 - https://www.theperfectloaf.com/beginners-sourdough-bread/

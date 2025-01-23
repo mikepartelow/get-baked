@@ -19,7 +19,7 @@
     * 1 Tbsp fresh
   * [optional] 2 tsp sichuan peppercorns
 * Addition 1
-  * 1 tsp sugar
+  * 1 tsp sugar OR 1 Tbsp honey
   * black pepper
   * 1 medium yellow onion, peeled and split in half
   * 2 (6-inch) sprigs fresh basil with leaves attached
