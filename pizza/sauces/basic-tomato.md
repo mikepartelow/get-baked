@@ -56,3 +56,8 @@ Good! Took closer to 2 hours to reduce. Sicuan peppercorns not well distributed 
 - used 1 Tbsp honey in place of 1 tsp sugar
 - no sichuan peppercorns
 - used both 1 tsp dried oregano and 1 Tbsp fresh
+
+## 2025/01/24
+
+- prepared day before pizza, overnight in fridge
+- modifications: 1 Tbsp dry oregano, 1 Tbsp tomato paste, 1 14.5oz can of crushed fire roasted tomato, 1 tsp Italian Herb blend, pureed with stick blender

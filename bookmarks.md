@@ -25,3 +25,7 @@
 ## Sourdough
 
 - https://www.theperfectloaf.com/beginners-sourdough-bread/
+
+## WHITE SONORA SOULS WITH HALLOUMI AND MINT
+
+- https://breadtopia.com/german-souls-bread-schwabische-seelen/

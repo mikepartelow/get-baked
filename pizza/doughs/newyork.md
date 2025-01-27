@@ -92,7 +92,7 @@
 #### Things to try:
 - [ ] smoother sauce
 
-#### Notes:
+#### Notes
 - I liked this dough better than Alton's.
 - Used "basic tomato sauce". Too chunky.
 - Dough dried out in fridge, because it was loosely covered. Although this affected shaping it had no apparent effect on flavor/texture.
@@ -105,3 +105,26 @@
 - Used rice flour for peel. Should use cornmeal, tastes better.
 - Each cooked 5-7 minutes, no soggy or overcooked bottoms.
 - Need more shaping practice. One was too thin in the center, another too thick in the center.
+
+
+### 2025/01/24-25
+
+#### Day 0
+
+- 0910: start
+- 0935: 1324g dough. 4 boules to fridge oiled and wrapped in plastic food bags, folded under, not tied.
+
+#### Day 1
+
+- 1650: boules to proofer @ 80F
+- 1835: first pizza to oven. baked each 5-8m.
+
+#### Notes
+
+- Nailed it. Each pizza was great. 
+- Much easier to shape than previously, none were dried out.
+- Flavor and texture were much improved by the longer fridge time, and might be improved by even more fridge time.
+- Room for improvement in shaping: only 2/4 were really round, and although all were "thin crust" some of them were uniform thickness instead of the desired thinner-at-the-middle.
+- Used cheddar for some of the cheese on 2 of the pizzas. Authentic for NY pizza but adds a lot of grease.
+- Would be nice to have more poofiness in the outer crust, but it was fine as it was
+- Still not 14", each closer to 12"
