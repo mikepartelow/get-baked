@@ -48,9 +48,7 @@
 1. Place water in mixing bowl.
 2. In a separate bowl, mix salt, yeast and sugar into flour
 3. Combine flour/salt/yeast mixture into water and mix until all the flour has been incorporated.
-4. After flour has been totally incorporated, add oil and knead for about 4 to 5 minutes
-    1. If you want to use the dough the next day, knead a little more (slow speed for about 8 to 10 minutes).
-    2. If you have time to let the dough rest for 3 days, knead for 4 to 5 minutes, low speed or hand knead.
+4. After flour has been totally incorporated, add oil and knead for about 8 to 10 minutes, until it aces windowpane test.
 5. Record final dough mass and temperature. Desired dough temperature: high 70s to low 80s F
 6. Divide dough into 4 equal pieces, each should mass ~326 grams.
 7. Shape into a ball, and place in greased, sealed quart-sized container or oiled/greased freezer bag.
@@ -128,3 +126,4 @@
 - Used cheddar for some of the cheese on 2 of the pizzas. Authentic for NY pizza but adds a lot of grease.
 - Would be nice to have more poofiness in the outer crust, but it was fine as it was
 - Still not 14", each closer to 12"
+- Cold, it seems the dough could be chewier. Next time, knead more.

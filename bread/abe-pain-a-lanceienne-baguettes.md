@@ -7,9 +7,14 @@
 ### Day 0
 
 - MEP
-- Prepare dough
+- Mix dough
+- Stretch and fold
 
 ### Day 1
+
+- Proof
+- Shape
+- Bake
 
 ## Ingredients
 
@@ -22,7 +27,7 @@
 
 > - [Baker's Percentage](https://www.kingarthurbaking.com/pro/reference/bakers-percentage)
 
-| Ingredient | Mass    | BP % |
+| Ingredient | Mass    | BP %  |
 | ---------- | ------- | ----- |
 | Flour      | 567g    | 100   |
 | Water      | 454g    | 80    |
@@ -33,7 +38,8 @@
 ## Equipment
 
 - Silpat
-- Dough bucket, with lid
+- 4L Dough bucket, with lid
+- Proofer
 - Dough scraper
 - Olive oil, mister preferred
 - Bowl of water for hands
@@ -48,33 +54,34 @@
 
 > Estimated time: 70 minutes
 
-1. Combine ingredients in mixing bowl.
-2. Mix 1m, either hand or mixer. Dough should be coarse and sticky.
-3. Let dough hydrate, 5m.
-4. Mix 1m on medium-low or with wet hands. Dough should smooth but will still be a mess.
-5. Use scraper to transfer to lightly oiled bucket.
-6. Cover
-7. Record "room temperature", dough mass, dough temperature.
-8. Let rest in lightly oiled dough bucket, at "room temperature", 10m
-9. On lightly oiled surface, perform 4 stretch-and-folds, one in each cardinal direction.
-10. Flip dough, tuck into a ball.
-11. Let rest in lightly oiled dough bucket, at "room temperature", 10m
-12. On lightly oiled surface, perform 4 stretch-and-folds, one in each cardinal direction.
-13. Flip dough, tuck into a ball.
-14. Let rest in lightly oiled dough bucket, at "room temperature", 10m
-15. On lightly oiled surface, perform 4 stretch-and-folds, one in each cardinal direction.
-16. Flip dough, tuck into a ball.
-17. Let rest in lightly oiled dough bucket, at "room temperature", 10m
-18. On lightly oiled surface, perform 4 stretch-and-folds, one in each cardinal direction.
-19. Flip dough, tuck into a ball.
-20. Tightly cover, refrigerate up to 4 days
+1. Preheat proofer to 75F.
+2. Combine ingredients in mixing bowl.
+3. Mix 1m, either hand or mixer. Dough should be coarse and sticky.
+4. Let dough hydrate, 5m.
+5. Mix 1m on medium-low or with wet hands. Dough should smooth but will still be a mess.
+6. Use scraper to transfer to lightly oiled bucket.
+7. Cover
+8. Record "room temperature", dough mass, dough temperature.
+9. Proof at 75F, 10m
+10. On lightly oiled surface, perform 4 stretch-and-folds, one in each cardinal direction.
+11. Flip dough, tuck into a ball.
+12. Proof at 75F, 10m
+13. On lightly oiled surface, perform 4 stretch-and-folds, one in each cardinal direction.
+14. Flip dough, tuck into a ball.
+15. Proof at 75F, 10m
+16. On lightly oiled surface, perform 4 stretch-and-folds, one in each cardinal direction.
+17. Flip dough, tuck into a ball.
+18. Proof at 75F, 10m
+19. On lightly oiled surface, perform 4 stretch-and-folds, one in each cardinal direction.
+20. Flip dough, tuck into a ball.
+21. Tightly cover, refrigerate up to 4 days
 
 ### Day 1: Baking Day
 
-> Estimated time:
+> Estimated time: 90 minutes
 
 1. Preheat oven, with stone, to max ("Surround") with steam function enabled.
-2. Remove dough from fridge 1 hour before baking time.
+2. Remove dough from fridge 1 hour before baking time. Let sit 1 hour.
 3. Prepare peel **pick one**:
     - Line with parchment paper
     - *Generously* dust with rice flour
@@ -97,3 +104,16 @@
 
 
 ## History
+
+### 2025/01/27-29
+
+#### Day 0
+
+- 1500: MEP. Water @52F
+- 1516: to proofer @75F. internal temp 61F
+- 1526: S+F
+- 1537: S+F
+- 1548: S+F
+- 1600: S+F. dough to fridge. dough mass: 1043g
+
+#### Day 1 (2025/01/29)
