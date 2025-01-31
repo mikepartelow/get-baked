@@ -2,6 +2,8 @@
 
 > Reference: Artisan Breads Every Day, Peter Reinhart, pp. 52
 
+> 🚨 Needs minimum 2 nights in fridge!
+
 ## Schedule
 
 ### Day 0
@@ -27,13 +29,15 @@
 
 > - [Baker's Percentage](https://www.kingarthurbaking.com/pro/reference/bakers-percentage)
 
+> Scaled up to make 8 baguette-like-breads - two batches of 4
+
 | Ingredient | Mass    | BP %  |
 | ---------- | ------- | ----- |
-| Flour      | 567g    | 100   |
-| Water      | 454g    | 80    |
-| Salt       | 15g     | 2.6   |
-| I Yeast    | 4g      | .7    |
-| **Total**  | 1040g   | 183   |
+| Flour      | 710g    | 100   |
+| Water      | 568g    | 80    |
+| Salt       | 18.5g   | 2.6   |
+| I Yeast    | 5g      | .7    |
+| **Total**  | 1300g   | 183   |
 
 ## Equipment
 
@@ -80,22 +84,22 @@
 
 > Estimated time: 90 minutes
 
-1. Preheat oven, with stone, to max ("Surround") with steam function enabled.
+1. Preheat oven, with stone, to **500F** (not max, "Surround" mode) with 🚨 steam function enabled 🚨.
 2. Remove dough from fridge 1 hour before baking time. Let sit 1 hour.
 3. Prepare peel **pick one**:
     - Line with parchment paper
     - *Generously* dust with rice flour
-    - *Generously* dust with semolina flour
-4. Avoid handling the dough. Do not degass!
+    - *Generously* dust with semolina flour (works great)
+4. Avoid handling the dough. Do not degas!
 5. Using a curved bowl scraper, transfer dough to a floured work surface.
 6. Dust dough with flour, flour hands
-7. Do not degass!
-8. Gently coax the dough into a 8"x8" square. Do not degass!
+7. Do not degas!
+8. Gently coax the dough into a 8"x8" square. Do not degas!
 9. Cut a slice about 1.5" wide. 
 10. Roll it gently into the flour to coat the cut.
 11. With floured tools/hands, gently transfer to peel, parallel to peel handle.
 12. Straighten and gently elongate to 9-10".
-13. Repeat, keeping about 1" of space between loaves, until peel is full. No crowding. Leave extra dough uncut for a second batch.
+13. Repeat, keeping about 1" of space between loaves, until peel is full. 🚨 NO MORE THAN FOUR! 🚨 No crowding. Leave extra dough uncut for a second batch.
 14. Slide baguettes on to stone.
 15. 🚨 Inject steam 🚨
 16. Lower temperature to 475F.
@@ -117,3 +121,22 @@
 - 1600: S+F. dough to fridge. dough mass: 1043g
 
 #### Day 1 (2025/01/29)
+
+- 1320: dough to proofer @75F
+- 1410: dough to bench
+- 1425: to oven @525
+- 1427: burst of steam
+- 1432: space them out and cut the stuck ones apart
+- 1439: out after 14m
+- 1443: second batch in @500F, burst of steam
+- 1457: done
+
+
+Notes:
+- too cramped, no more than 4 per batch
+- forget the fancy magic peel, semolina plus regular peel works fine
+- scale recipe up 25%. 567g flour is 1.5 batches at most.
+- seems a little too moist, and uneven/over-browning. to bake longer, would need lower temp, so set to 500F, not 525F
+- used non-convection mode. try convection for an even browning
+- first batch had amazing holes, great flavor, wonderful chewey crumb, crispy crust when warm, almost too-moist inside, maybe too salty, and when cooled, maybe too-leathery crust.
+- second batch was not as open but no less delicious or chewy. softer crust when cooled, lending credence to the idea of cooking at lower temp (second batch was cooked closer to 500F, first closer to 525F)

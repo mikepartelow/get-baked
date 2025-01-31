@@ -65,21 +65,22 @@
 
 🚨 Cheese is for second day!
 
-1. MEP
+1. MEP: 🚨 melt butter first 🚨
 2. In small bowl, dissolve honey/nectar in water.
 3. Add yeast.
-4. In mixing bowl, whisk flour, salt, sugar.
+4. In mixing bowl, whisk flour, salt.
 5. Add butter/oil and water mixture.
 6. Mix, by hand or on lowest mixer speed, for 2 minutes.
-7. Let rest 5 minutes.
+7. Let rest 5 minutes, 🚨 prepare onion 🚨
 8. Dough hook on medium-low speed, or knead by hand, 3 minutes.
 9. Dough should be soft, supple and tacky but not sticky.
 10. Add onions and mix on lowest speed, or by hand, 1 minute, until onions are evenly distributed.
 11. Transfer dough to floured surface and knead by hand for 2m.
 12. Form dough into ball.
 13. Record dough weight and temperature.
-14. Put dough in lightly oiled bucket, cover tightly.
-15. Refrigerate up to 4 days.
+14. Put dough in lightly oiled bucket, cover tightly. 🚨🚨 4L bucket is too small! 🚨🚨
+15. 🚨 Grate cheese for tomorrow! 
+16. Refrigerate up to 4 days.
 
 ### Day 1: Baking Day
 
@@ -110,3 +111,28 @@
 
 
 ## History
+
+### 2025/01/30-31
+
+#### Day 0
+
+- 1650: MEP
+- 1705: mix
+- 1708: rest
+- 1715: to mixer on setting 2
+- 1718: add onions
+- 1727: dough 76F, 1650g
+- 1728: to fridge
+
+#### Day 1
+
+- 0825: proofer on, MEP
+- 0842: 2 loaves to proofer
+- 0930: preheat oven 325F convection bake
+- 1015: loaves to oven, 🚨 burst of steam 🚨
+- 1105: loaves out, internal temp 201F
+
+- used date nectar
+- used pizza cheese blend: mozzarella, fontina, cheddar, parmesan. unknown ratios.
+- more of a chopped than diced onion
+- rose plenty in pans, but not 1" above the rim. used 5x10 pans, not 5x9 as recipe said - loaves definitely got to 1.5x size.

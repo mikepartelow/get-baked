@@ -10,7 +10,10 @@
 
 > Makes four 14-inch pizzas
 
-- 796g **bread** flour (**not** 00. use all purpose for a "lighter" dough)
+- 796g 
+    - 👉 00 Italian for balanced, easy to shape dough 👈
+    - bread flour for a strong, chewy crust
+    - all purpose flour for a softer, possibly more open crumb    
 - 493g water @40C
 - 15.6g salt 
 - 11.8g olive oil
@@ -25,7 +28,7 @@
 | Ingredient | Mass  | Percentage |
 | ---------- | ----- | ---------- |
 | Flour      | 796g  | 100%       |
-| Water      | 493g  | 62%        |
+| Water      | 493g  | 62%        | 👈 raise hydration for holier crust
 | Salt       | 15.6g | 2.0%       |
 | Sugar      | 8g    | 1.0%       |
 | Olive Oil  | 12g   | 2.2%       |
