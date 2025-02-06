@@ -102,8 +102,8 @@
 10. Mist with spray oil
 11. Proof @ 75F, 90 minutes, until 1.5x original size
     - Loaves should dome about 1" above rim
-12. 🚨 Preheat oven to 300F (or 350F without convection)
-13. Poke through crust with toothpick in a few spots to pop bubbles inside
+12. 🚨 Preheat oven to 350F 🚨🚨 No steam! No convection! 🚨🚨
+13. Poke **deeply** through crust with toothpick in a few spots to pop bubbles inside
 14. Bake until deep golden brown, internal temperature above 185F
     - Loaves, 50 minutes, turning after 20 minutes
     - Rolls, 20-25 minutes, turning after 10 minutes
@@ -136,3 +136,17 @@
 - used pizza cheese blend: mozzarella, fontina, cheddar, parmesan. unknown ratios.
 - more of a chopped than diced onion
 - rose plenty in pans, but not 1" above the rim. used 5x10 pans, not 5x9 as recipe said - loaves definitely got to 1.5x size.
+- one loaf was underproofed and rolled up too loosely: dense at bottom, cavernous bubble at top. 
+
+#### Next time
+- oops: steam was a mistake!
+- oops: convection may have been a mistake!
+- poke deeply with the toothpick to puncture bubbles
+- proof 2h or more
+- roll more tightly
+- finer diced onions
+- windowpane test - dough was likely underdeveloped
+- bulk ferment 2 nights, not just 1
+- warm pans before proofing
+- consider cooking on lower oven rack to heat up the bottom
+- really flour the dough after rolling it out, so that it sticks to itself during proofing

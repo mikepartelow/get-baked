@@ -44,7 +44,7 @@
 - Soaker
 - 366g bread flour
 - 335g water @ 38C
-- 9.2g instant yeast
+- 12g instant yeast
 
 ### Dough
 
@@ -78,7 +78,7 @@
 | Molasses   | 167g    | 20    |
 | Butter     | 42g     | 4.9   |
 | Salt       | 15.8g   | 1.9   |
-| I Yeast    | 9.2g    | 1.1   |
+| I Yeast    | 12g     | 1.4   |
 | **Total**  | 2010g   | 236   |
 
 
@@ -128,14 +128,14 @@
 13. Form into loaves. See BBA page 82 or Artisan Breads Every Day page 23. 🚨🚨 Create/maintain tension in the dough. 🚨🚨
 14. Add to loaf pans. 🚨 Dough should touch all edges of pan, not shrink in the middle. 🚨
 15. Note dough temperature.
-16. 🚨 Preheat oven to 375F (BBA says 350 but 375 gives better crust) 🚨 Set for steam injection 🚨
+16. 🚨 Preheat oven to 350F 🚨 Set for steam injection 🚨
 17. Proof loaves in Proofer Box at 77F for at least 60-90m. 
 18. Remove loaves from proofer when dough clears the tops of the loaf pans. Not before!
 19. 🚨 Perform the poke test 🚨
 20. Mist loaves with water, sprinkle cornmeal or polenta on top.
     - Don't under-mist. The mist encourages oven spring.
 21. Bake loaves in oven for 20m. 🚨 Use steam injection 🚨 (and record its use)
-22. Rotate loaves. Bake another 20-30m (🚨 longer when scaled up 🚨), until well browned and internal temperature is at least 185F.
+22. Rotate loaves. Bake another 20-30m, until well browned and internal temperature is at least 185F. 🚨 Don't let it get past 200F. 🚨
 23. Remove loaves from oven. Note temperature. Remove loaves from pans and rest on resting rack for 1h.
 
 ## History
@@ -279,3 +279,58 @@ Notes:
 - really need to get better at shaping a loaf
 - use convection bake, not bake
 - not underbaked, but less dry than usual due to scaleup without additional bake time. delicious as usual.
+
+### 2025/02/02
+
+#### Goals
+
+- fluffier, less dense
+  - more yeast
+  - proof longer
+  - better shaping (tension)
+- less dense at bottom
+    - preheat loaf pans before proofing
+    - proof longer
+    - bake lower in oven
+    - bake without baking sheet    
+    - bake longer
+
+#### Notes
+- ❗️❗️❗️ used 12g yeast (on purpose) ❗️❗️❗️ -> 1.4%
+- oiled the loaf pans
+- oven temp 375 *convection* bake
+- essentially no oven spring, despite passing poke test
+- seems drier than usual
+- not dense on bottom
+- great flavor
+
+#### Day 1
+
+- 1000 sponge to proofer @75F
+- 1110: preheat loaf pans
+- 1114: mix on setting 1
+- 1122: add flour, mix on setting 2
+- 1130: to floured surface, testing windowpane
+- 1136: to proofer @75, internal temp 75F, 2022g, around 1.5 marker on 6L bucket
+- 1232: shape, dough at almost 4L marker
+- 1138: dough to oiled loaf pans, to proofer @75F
+- 1345: to oven @375 convection bake, with burst of steam
+- 1408: oven to 350F
+- 1414: turn
+- 1436: out. internal temp 206/207F
+
+### Next Time
+
+#### Goals
+
+- fluffier, less dense
+  - proof longer (90m)
+  - better shaping (tension)
+- less dense at bottom
+    - preheat loaf pans before proofing
+    - proof longer (90m)
+    - bake lower in oven
+    - bake without baking sheet    
+- moister
+    - bake at 350F 
+    - remove from oven when 190-200F inside, don't wait for 206F
