@@ -46,7 +46,7 @@
 
 ## Directions
 
-### Day 0: Dough Day
+### Day 0: Dough Day : 30 minutes
 
 1. Place water in mixing bowl.
 2. In a separate bowl, mix salt, yeast and sugar into flour
@@ -58,7 +58,7 @@
 8. Refrigerate overnight or up to 72 hours 
     1. [Recipe author](https://feelingfoodish.com/the-best-new-york-style-pizza-dough/) prefers 3 days
 
-### Day 1: Bake Day
+### Day 1: Bake Day : 20 hours
 
 1. Remove dough balls within 1 hour of baking and allow the dough to come to room temperature. 
     1. [Recipe author](https://feelingfoodish.com/the-best-new-york-style-pizza-dough/) says: I often bake coldish dough without problems
@@ -129,4 +129,4 @@
 - Used cheddar for some of the cheese on 2 of the pizzas. Authentic for NY pizza but adds a lot of grease.
 - Would be nice to have more poofiness in the outer crust, but it was fine as it was
 - Still not 14", each closer to 12"
-- Cold, it seems the dough could be chewier. Next time, knead more.
+- Cold, it seems the dough could be chewier. Next time, knead more - this will make it even harder to stretch tho

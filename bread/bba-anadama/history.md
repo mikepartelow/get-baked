@@ -2,142 +2,6 @@
 
 > Reference: The Bread Baker's Apprentice, Peter Reinhart, pp. 108
 
-## 🚨 Important!
-
-- Measure water before heating it up.
-- Note dough temps throughout.
-- Use extra flour until dough is not sticky.
-- Mass the final dough.
-- 🚨 Proofer Box the sponge.
-- 🚨🚨 Remember to preheat the oven!
-- 🚨🚨🚨 Ignore timings - pay attention to the dough. 
-- 🚨🚨🚨🚨 Before going into oven, dough should **confidently** clear the tops of the loaf pans.
-- 🚨🚨🚨🚨🚨 Use steam injection
-- 🚨🚨🚨🚨🚨🚨 Poke test!
-- 🚨🚨 Note initial dough volume so you can tell when it has bulked! 🚨🚨
-- 🚨🚨🚨🚨🚨🚨🚨🚨 Shape with tension! 🚨🚨🚨🚨🚨🚨🚨🚨
-
-## Schedule
-
-### Day 0
-- Prepare Soaker
-- Mise-en-place (MEP) the Sponge and Proofer Box. 
-- ❗️ Take butter out of the fridge.
-- Total time: 15m
-
-### Day 1
-- Turn on Proofer Box
-- Prepare Sponge (5m)
-- Proofer Box sponge
-- See below
-- Total time: 5h30m
-
-## Ingredients
-
-### Soaker
-
-- 251g polenta (or coarse cornmeal if you must, but polenta is better - we want to avoid fines)
-- 335g water @ room temp
-
-### Sponge
-
-- Soaker
-- 366g bread flour
-- 335g water @ 38C
-- 12g instant yeast
-
-### Dough
-
-- Sponge
-- 484g Flour
-- 167g molasses
-- 42g unsalted butter (~3 Tbsp), cut into small pieces.
-- 15.8g salt
-
-
-### Baker’s Percentage
-
-> - [Baker's Percentage](https://www.kingarthurbaking.com/pro/reference/bakers-percentage)
-> - [Reinhart's Method](https://www.thefreshloaf.com/node/42704/understanding-peter-reinhart’s-baker’s-percentage-formulas-bread)
-
-#### Soaker
-
-| Ingredient | Mass  | BP % |
-| ---------- | ----- | ---- |
-| Polenta    | 251g  | 100  |
-| Water      | 335g  | 134  |
-| **Total**  | 587g  | 234  | 
-
-#### Dough
-
-| Ingredient | Mass    | BP % |
-| ---------- | ------- | ----- |
-| Flour      | 850g    | 100   |
-| Soaker     | 587g    | 69    |
-| Water      | 335g    | 39.5  |
-| Molasses   | 167g    | 20    |
-| Butter     | 42g     | 4.9   |
-| Salt       | 15.8g   | 1.9   |
-| I Yeast    | 12g     | 1.4   |
-| **Total**  | 2010g   | 236   |
-
-
-## Equipment
-- Small mixing bowl (for soaker)
-- Plastic wrap, towels
-- Largest mixing bowl
-- Large bowl or dough bucket for fermenting
-- Proofer box
-- Water heater
-- Thermometer
-- Spatula
-- Dough knife
-- Silpat
-- Extra flour
-- Oil for fermenting
-- Measuring cups
-- 2x 1.5lb loaf pans, or 3x 1lb loaf pans
-- Baking sheet
-- Water mister
-- Resting racks
-
-## Directions
-
-### Day 0: Soaker Day
-
-1. Remove butter from fridge. Mise en place for next morning.
-2. Mix polenta and water in a small bowl. Cover. Let sit overnight at room temperature.
-
-### Day 1: Baking Day
-
-1. Turn on Proofer Box, set to 77F.
-2. Prepare Sponge.
-    1. In large mixing bowl, mix sponge flour with yeast, Soaker, and water @ 38C.
-    2. Place Sponge in Proofer Box.
-    3. Ferment Sponge for 60m or until it bubbles.
-3. Add remaining flour, salt, molasses, and butter.
-4. Stir or mix in mixer until ingredients form a ball.
-5. Knead dough on floured surface, or in mixer at medium, about 8-10 minutes in the mixer (setting 2 of 4) or 10 minutes by hand.
-6. Add more flour if dough is sticky.
-7. When dough absolutely aces (not just "passes") Windowpane Test, stop kneading. 
-8. Lightly oil a bowl or dough bucket and add the dough.
-9. Note dough temperature and weight. **Desired Dough Temperature:** 77-81F.
-10. Ferment in Proofer Box until the dough doubles (60ish min). 🚨🚨 Note initial dough volume 🚨🚨
-11. On an **unfloured** surface, gently degass the dough.
-12. Divide dough into 2 or 3 pieces. 3 loaves if using USA Pan Smalls, 2 loaves if using Larges.
-13. Form into loaves. See BBA page 82 or Artisan Breads Every Day page 23. 🚨🚨 Create/maintain tension in the dough. 🚨🚨
-14. Add to loaf pans. 🚨 Dough should touch all edges of pan, not shrink in the middle. 🚨
-15. Note dough temperature.
-16. 🚨 Preheat oven to 350F 🚨 Set for steam injection 🚨
-17. Proof loaves in Proofer Box at 77F for at least 60-90m. 
-18. Remove loaves from proofer when dough clears the tops of the loaf pans. Not before!
-19. 🚨 Perform the poke test 🚨
-20. Mist loaves with water, sprinkle cornmeal or polenta on top.
-    - Don't under-mist. The mist encourages oven spring.
-21. Bake loaves in oven for 20m. 🚨 Use steam injection 🚨 (and record its use)
-22. Rotate loaves. Bake another 20-30m, until well browned and internal temperature is at least 185F. 🚨 Don't let it get past 200F. 🚨
-23. Remove loaves from oven. Note temperature. Remove loaves from pans and rest on resting rack for 1h.
-
 ## History
 
 ### 2025/01/03-04
@@ -334,3 +198,35 @@ Notes:
 - moister
     - bake at 350F 
     - remove from oven when 190-200F inside, don't wait for 206F
+
+
+### 2025/02/11
+
+#### Notes
+- ❗️❗️❗️ used 13g yeast (on purpose) ❗️❗️❗️
+- dough is really wet. maybe we don't get desired rise for the same reason ciabatta doesn't rise - consider adding waaaay more flour 
+- lack of shaping tension - related to overhydration? - led to slight crust separation
+- more open crumb than usual
+- better "bread loaf" shape than usual
+- again tastes "dry" but no obvious culprit for this since internal temp is lower than usual
+- adjusting recipe yeast back down to original 1.1%
+- maybe try actual 9x5 pans?
+
+#### Day 1
+
+- 0730: proofer to 75F
+- 0740: make sponge
+- 0750: sponge to proofer
+- 0900: mix
+- 0909: to mixer, on speed 1
+- 0915: speed 2
+- 0925: hand knead, flour
+- 0931: mixer: speed 2
+- 0934: done
+- 0938: 2086g dough, 73F internal temp, to proofer @75F. very wet dough today, lots of flour additions, still pretty loose. 1.5L of 6L bucket
+- 1041: dough risen to 3.8L
+- 1052: loaves to proofer @75F, 10x5 pans. dough is quite developed though before bulk it only weakly passed windowpane.
+- 1130: preheat oven 350F, no steam, convection bake
+- 1220: loaves in (no steam). cleared the top of the pans by a lot!
+- 1242: rotate
+- 1259: out. internal temp 203

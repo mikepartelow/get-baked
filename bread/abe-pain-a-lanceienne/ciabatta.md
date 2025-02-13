@@ -41,10 +41,12 @@
 4. Cut dough in half. 🚨 Do not degas 🚨 
 5. Flour the cut edges.
 6. Gently fold into thirds, apply flour.
-7. Gently rest, seam side **down**, on floured parchment paper.
+7. Gently rest, seam side **down**, on **semolina** or **rice** floured parchment paper.
+    - Caution: it wil likely stick
 8. Proof 1 hour in proofer or mist with oil and proof under towel.
 9. Gently shape into rectangles.
-10. Gently rest, seam side **up**, on floured parchment paper.
+10. Gently rest, seam side **up**, on **semolina** or **rice** floured parchment paper.
+    - Caution: it wil likely stick
 11. Preheat oven **with stone** on 🚨 steam injection mode 🚨 to maximum ("surround" mode)
 12. Proof 1 hour more.
 13. Lower oven temp on 🚨 steam injection mode 🚨 to 450F ("surround" mode)
