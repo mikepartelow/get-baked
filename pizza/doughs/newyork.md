@@ -130,3 +130,13 @@
 - Would be nice to have more poofiness in the outer crust, but it was fine as it was
 - Still not 14", each closer to 12"
 - Cold, it seems the dough could be chewier. Next time, knead more - this will make it even harder to stretch tho
+
+### 2025/02/12-14
+
+#### Day 0
+
+- 1805: start
+- 1815: mix in mixer on 1, poured water into mixer instead of dry into water
+- 1817: mix on 2
+- 1828: 1320g
+- 1633: four boules to fridge in individual containers

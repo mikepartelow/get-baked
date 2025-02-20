@@ -2,8 +2,6 @@
 
 > Reference: The Bread Baker's Apprentice, Peter Reinhart, pp. 108
 
-## 🚨 Important!
-
 ## Schedule
 
 ### Day 0: 15 minutes

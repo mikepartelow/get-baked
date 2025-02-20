@@ -23,14 +23,14 @@
 - 710g unbleached bread flour
 - 568g **chilled** water, @ 55F
 - 18.5g kosher salt
-- 18g olive oil (optional - "ciabatta only")
+- 18g olive oil (optional - "ciabatta/focaccia only")
 - 5g instant yeast
 
 ### Baker’s Percentage
 
 > - [Baker's Percentage](https://www.kingarthurbaking.com/pro/reference/bakers-percentage)
 
-> Scaled up to make 8 baguette-like-breads - two batches of 4
+> Scaled up to make 8 baguette-like-breads - two batches of 4 long loaves
 
 | Ingredient | Mass    | BP %  |
 | ---------- | ------- | ----- |
@@ -61,9 +61,9 @@
 4. Let dough hydrate, 5m.
 5. Add olive oil, if using.
 6. Mix 1m on medium-low or with wet hands. Dough should smooth but will still be a mess.
-7. Use scraper to transfer to lightly oiled bucket.
-8. Cover
-9. Record "room temperature", dough mass, dough temperature.
+7. Record "room temperature", dough mass, dough temperature.
+8. Use scraper to transfer to lightly oiled 4L bucket.
+9. Cover
 10. Proof at 75F, 10m
 11. On lightly oiled surface, perform 4 stretch-and-folds, one in each cardinal direction.
 12. Flip dough, tuck into a ball.
