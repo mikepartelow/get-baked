@@ -40,7 +40,7 @@
 3. Gently stretch the dough into into a 9"x9" round square. 🚨 Do not degas 🚨
 4. Cut dough in half. 🚨 Do not degas 🚨 
 5. Flour the cut edges.
-6. Gently fold into thirds, apply flour.
+6. 🚨 Consider skipping this and just baking blobs 🚨 Gently fold into thirds, apply flour.
 7. Gently rest, seam side **down**, on **semolina** or **rice** floured parchment paper.
     - Caution: it wil likely stick
 8. Proof 1 hour in proofer or mist with oil and proof under towel.
