@@ -48,3 +48,45 @@
 - Use oven proofing mode for day 1 - let it rise a lot
 - Use different pan: less wide/long, more tall
 - maybe bottom rack
+
+
+### 2025/02/24-26
+
+> Focaccia!
+
+#### Notes
+
+- day 0: much less loose than previous focaccia dough. seems more likely to succeed.
+- day 1: previous dough sank a little after bulk, this didn't. previous dough struggled to exit bulk bucket, this didn't.
+- (Mostly) NAILED IT! Crispy crust, moist, chewy, flavorful crumb. Could use more salt/herbs/oil but otherwise perfect. Plenty tall.
+
+#### Day 0
+
+1830: MEP/mix
+1850: 1311g dough, to proofer @ 75F
+1900: S+F
+1910: S+F
+1920: S+F
+1930: S+F
+1935: to fridge
+
+#### Day 1
+
+- 0740: USA Pan 13"x9" rectangular cake pan to proofer @ 75F
+- 0810: dough to proofer, oiled and dimpled
+- 0840: oiled, dimpled
+- 0920: dimple, no oil
+- 1020: dimple, no oil
+- 1120: light dimpling, 1Tbsp oil
+- 1130: oven on. "moisture plus" mode, 450F
+- 1205: top. adjust oven to 475F
+- 1208: to oven, second lowest rack. inject steam.
+- 1212: oven to 450F. steam finished.
+- 1228: out. internal temp 207F
+
+#### Next Time
+
+- big flake sea salt topper
+- more oil on top
+- less oil on bottom
+- much more rosemary/herbs
