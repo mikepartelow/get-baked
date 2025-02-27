@@ -59,6 +59,7 @@
 - day 0: much less loose than previous focaccia dough. seems more likely to succeed.
 - day 1: previous dough sank a little after bulk, this didn't. previous dough struggled to exit bulk bucket, this didn't.
 - (Mostly) NAILED IT! Crispy crust, moist, chewy, flavorful crumb. Could use more salt/herbs/oil but otherwise perfect. Plenty tall.
+  Less great once cooled but still great.
 
 #### Day 0
 
@@ -78,10 +79,10 @@
 - 0920: dimple, no oil
 - 1020: dimple, no oil
 - 1120: light dimpling, 1Tbsp oil
-- 1130: oven on. "moisture plus" mode, 450F
-- 1205: top. adjust oven to 475F
+- 1130: oven on. "moisture plus" mode, 450F (❗️420F next time❗️)
+- 1205: top. adjust oven to 475F (❗️don't do this next time❗️)
 - 1208: to oven, second lowest rack. inject steam.
-- 1212: oven to 450F. steam finished.
+- 1212: oven to 450F (❗️420F next time❗️). steam finished.
 - 1228: out. internal temp 207F
 
 #### Next Time
@@ -90,3 +91,4 @@
 - more oil on top
 - less oil on bottom
 - much more rosemary/herbs
+- lower temperatures for convection (and more tender crust once cooled)

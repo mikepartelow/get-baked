@@ -48,7 +48,7 @@
 13. In circles from the middle to the outside, 🖐️ dimple and spread the dough to cover half the pan. ❗️ By now dough should cover the full pan. ❗️
 14. Cover with plastic wrap
 15. Prepare to preheat oven
-16. Wait 60-120 minutes or more, until dough is about 1 inch tall 🚨 Preheat oven to 450F convection bake + steam 🚨
+16. Wait 60-120 minutes or more, until dough is about 1 inch tall 🚨 Preheat oven to 420F convection bake + steam 🚨
 17. Top focaccia with herb oil or whatever. Wait until end of baking time to add cheese, if using.
 18. Put the pan in the oven
 19. 🚨 inject steam 🚨
