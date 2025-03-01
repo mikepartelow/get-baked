@@ -92,3 +92,4 @@
 - less oil on bottom
 - much more rosemary/herbs
 - lower temperatures for convection (and more tender crust once cooled)
+- dimple ONCE, before baking. handle gently for big open crumb
