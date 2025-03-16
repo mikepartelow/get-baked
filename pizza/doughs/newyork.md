@@ -30,8 +30,8 @@
 | Flour      | 796g  | 100%       |
 | Water      | 493g  | 62%        | 👈 raise hydration for holier crust
 | Salt       | 15.6g | 2.0%       |
-| Sugar      | 8g    | 1.0%       |
 | Olive Oil  | 12g   | 2.2%       |
+| Sugar      | 8g    | 1.0%       |
 | Inst Yeast | 3.5g  | 0.44%      |
 | ---------- | ----- | ---------- |
 | Total      | 1328g | 167%       |
@@ -54,7 +54,7 @@
 4. After flour has been totally incorporated, add oil and knead for about 8 to 10 minutes, until it aces windowpane test.
 5. Record final dough mass and temperature. Desired dough temperature: high 70s to low 80s F
 6. Divide dough into 4 equal pieces, each should mass ~326 grams.
-7. Shape into a ball, and place in greased, sealed quart-sized container or oiled/greased freezer bag.
+7. Shape into a ball, and place in greased, sealed quart-sized container or oiled/greased freezer bag. 🚨 Really grease up the container. No sticking! 🚨
 8. Refrigerate overnight or up to 72 hours 
     1. [Recipe author](https://feelingfoodish.com/the-best-new-york-style-pizza-dough/) prefers 3 days
 
@@ -139,4 +139,80 @@
 - 1815: mix in mixer on 1, poured water into mixer instead of dry into water
 - 1817: mix on 2
 - 1828: 1320g
-- 1633: four boules to fridge in individual containers
+- 1833: four boules to fridge in individual containers
+
+### 2025/03/05-07
+
+#### Day 0
+
+- 1835: start
+- 1845: mix in mixer on 1. followed recipe, it's dumb. pour water dry.
+- 1848: mixer 2
+- 1905: to freezer, 332g each.
+
+#### Day 1
+
+> Sauce: muir glen organic whole peeled tomatoes, pureed with 1 tsp salt per 28oz tomatoes. between sauce and cheese: dry oregano, aleppo peppers
+
+- 1700: boules to counter. room temp 17F
+- 1800: pizza steel in, oven to Surround 525F
+- 1900: pizza in
+
+#### Notes
+
+- 2 hour rest time was great! dough was easy to stretch.
+- pizza steel makes a huge difference. crispy crust each time. 
+- paused 15 minutes between second and third pizzas. the extra warmup time led to much crisper/blacker crust on the first and third.
+- third pizza was hawaiian. with so many toppings after a 15m re-warmup, the bottom cooked much faster than the top. heavy topped pizzas should go second or fourth
+- cheese was soupy/gooey
+- cooked final pizza on convection broil, it was great but not better than the others
+- sauce was a big hit! also added dried herbs on top after taking pizzas from oven. great move!
+- 🚨 didn't dust peel enough, didn't shake test before insertion : cheese spillage 🚨
+
+#### Next Time
+
+> The main "defect" with these delicious pizzas was the soupy sauce. the crust was delicious but too crisp (on purpose) to be "new york style". for less crispy crust, use the pizza stone. for delicious almost crackery crust, use the steel. next time, get a firmer, chewier cheese, no soup.
+
+- bake pizzas on higher rack to melt the cheese better - this is the primary change
+- try to bake longer: 10m
+- press moisture out of the cheese before grating
+- strain some liquid out of the sauce or blend in some tomato paste
+- use less/no fontina
+- 🚨 use tons of semolina to dust peel, and wiggle test before insertion 🚨
+
+### 2025/03/12
+
+- used 565g water (71%)
+- dough: 1393g, 4x348g
+
+#### Notes
+
+> Sauce: dinapoli crushed tomatoes, 28oz + 1tsp kosher salt. between sauce and cheese: dry oregano or italian herb blend, aleppo peppers
+
+- 2 hour rest
+- pizza steel
+- oven rack 4
+- oven setting: surround 525F (max), 1 hour preheat
+- cooked about 8m each
+
+- sauce was way better. hard to say if it's the brand or the crushedness vs puree. much deeper color than last time.
+- fourth pizza was 9/10 mozzarella/cheddar, and was laid on thicker than the rest, but with sauce still visible. 
+- fourth pizza was the closest yet to perfect cheese texture. 
+- very crispy crust, but foldable. very thin at the center, almost unrisen.
+
+
+#### Next Time
+
+- minimum 8/10 mozzarella
+- stick with denapoli crushed tomatoes
+- use enough 8/10 mozzarella that no sauce is visible, and then some
+- keep rack at #4 - it's essential for topping-heavy pizza like hawaiian
+- let it rest and cool
+- sop up extra grease
+- ⁉️ wetter dough -> thinner bottom crust. dryer dough -> thicker bottom crust 
+- ⁉️ lower temp (475-500F instead of 525F) + steel for more NY-style crust
+
+#### Long Term
+
+- more tender less/same crispy crust
+- determine if the sauce was great because it was denapoli brand or becuase it was crushed not pureed

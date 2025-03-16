@@ -32,6 +32,8 @@
 
 > Scaled up to make 8 baguette-like-breads - two batches of 4 long loaves
 
+> 🚨🚨 This is too much dough for focaccia! 🚨🚨
+
 | Ingredient | Mass    | BP %  |
 | ---------- | ------- | ----- |
 | Flour      | 710g    | 100   |

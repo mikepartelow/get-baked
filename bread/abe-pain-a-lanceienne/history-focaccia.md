@@ -93,3 +93,96 @@
 - much more rosemary/herbs
 - lower temperatures for convection (and more tender crust once cooled)
 - dimple ONCE, before baking. handle gently for big open crumb
+
+### 2025/03/03
+
+
+#### Day 0
+
+1830: MEP/mix
+mass 1316g
+1855: to proofer @75F
+1907: S+F
+1917: S+F
+1929: S+F
+1940: S+F, to fridge
+
+#### Day 1
+
+- 0745: USA Pan 13"x9" rectangular cake pan to proofer @ 75F
+- 0755: dough to proofer, oiled and dimpled
+- 1125: oven on. 420F convection bake + steam. oiled, dimpled, topped with fresh rosemary and thyme. turned off proofer.
+- 1155: to oven, steam
+- 1205: rotate
+- 1215: out. internal temp ranges 190F-207F
+
+#### Notes
+
+- delicious
+- not enough salt on top
+- thinner crust, still crispy
+- moist crumb, but not very open
+- too dense/underdone in the middle
+
+#### Next Time
+
+- figure out how to get more open crumb
+  1. scale recipe down to 500g flour
+  2. bake 450F no convection yes steam. consider: convection after rotation for crispier crust.
+  3. S+F/bulk in a bowl, not a bucket
+  4. preheat oven 1 full hour
+  5. shorter proof: 2 hour max
+  6. next next time: shorter bulk (1 night)
+- flake salt topper
+- parchment handles: Using the parchment tabs as handles, lift the focaccia out of the pan
+
+
+### 2025/03/10
+
+
+#### Day 0
+
+1820: MEP/mix. BRM Artisan Bread Flour
+1838: 927g to proofer in an oiled BOWL (large shiny)
+1850: S+F
+1900: S+F
+1910: S+F
+1920: S+F, to fridge in BOWL, tightly covered with plastic wrap
+
+
+#### Day 1
+
+0835: to proofer, in USA Pan Cake Pan, with parchment tab (one-side only), 2 Tbsp herb oil beneath, 1Tbsp herb oil above, lightly mushed to spread. does not cover pan.
+1100: oven on, 475F convection bake plus steam (steam implies convection)
+1105: dimple, top
+1145: bread in, steam
+1147: change to bake @ 450F
+1156: rotate
+1204: convection bake @430F
+1207: out, 207F internal temp
+
+#### Notes
+
+- delicious
+- small
+- plenty of salt on top
+- thin, crispy crust
+- moist crumb, still not very open. maybe a little more that previously, but still not what I am going for.
+
+#### Next Time
+
+- scale recipe back up just a little. 523g flour.
+- scale hydration up to 88% OR use KAF instead of BRM
+- 4 hour second proof
+- dimple just before oven, no sooner
+
+### 2025/03/15-17
+
+> Used BRM Artisan Bread Flour at 88% hydration, 523g flour
+
+1835: MEP/mix
+1850: 1012g dough to proofer @75F
+1900: S+F
+1910: S+F
+1920: S+F
+1930: S+F, to fridge
