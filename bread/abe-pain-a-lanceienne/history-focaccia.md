@@ -180,9 +180,41 @@ mass 1316g
 
 > Used BRM Artisan Bread Flour at 88% hydration, 523g flour
 
+#### Day 0
+
 1835: MEP/mix
 1850: 1012g dough to proofer @75F
 1900: S+F
 1910: S+F
 1920: S+F
 1930: S+F, to fridge
+
+#### Day 1
+
+0730: proofer on, dough to counter
+0805: to warmed pan, spread a little to even it out, to proofer @75F
+1115: oven on: convection bake 475F plus manual steam
+1155: dimple, oil, top
+1201: to oven, steam, lower rack (Second from bottom)
+1207: change mode to bake @450F
+1211: rotate
+1222: out, 210F internal
+
+#### Notes
+
+- good oven spring
+- seems less tall than priors
+- still more spring in the middle than at the edges
+- at this higher hydration level the crumb is even more moist and delicious
+- still not getting the huge irregular holes I wanted
+  - time to try an altogether different recipe that's explicitly aimed at big holes
+- absolutely delicious
+
+#### Next Time
+
+🚨 this recipe, using cold water and lots of salt, may be small-holes by design. it's a neat idea to use the same dough for 3 kinds of bread, but the 3 breads are different!
+
+- courage while dimpling! get it evened out to the edges
+- use KAF flour, not BRM. adjust water to keep it goopy
+- 🚨 no steam, no convection. steam might allow bubbles to "migrate" outside the crumb to the top of the crust 🚨
+- don't overproof the dough, we don't need 4 hours of rise time (but 30m of countertop before panning is a good idea)
