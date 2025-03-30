@@ -208,6 +208,7 @@ mass 1316g
 - at this higher hydration level the crumb is even more moist and delicious
 - still not getting the huge irregular holes I wanted
   - time to try an altogether different recipe that's explicitly aimed at big holes
+- less brown less crispy on sides and bottom than priors
 - absolutely delicious
 
 #### Next Time
@@ -218,3 +219,4 @@ mass 1316g
 - use KAF flour, not BRM. adjust water to keep it goopy
 - 🚨 no steam, no convection. steam might allow bubbles to "migrate" outside the crumb to the top of the crust 🚨
 - don't overproof the dough, we don't need 4 hours of rise time (but 30m of countertop before panning is a good idea)
+- Actually cover, don't just put in proofer

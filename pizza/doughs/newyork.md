@@ -58,7 +58,7 @@
 8. Refrigerate overnight or up to 72 hours 
     1. [Recipe author](https://feelingfoodish.com/the-best-new-york-style-pizza-dough/) prefers 3 days
 
-### Day 1: Bake Day : 20 hours
+### Day 1: Bake Day : 3 hours
 
 1. Remove dough balls within 1 hour of baking and allow the dough to come to room temperature. 
     1. [Recipe author](https://feelingfoodish.com/the-best-new-york-style-pizza-dough/) says: I often bake coldish dough without problems
@@ -206,6 +206,7 @@
 - minimum 8/10 mozzarella
 - stick with denapoli crushed tomatoes
 - use enough 8/10 mozzarella that no sauce is visible, and then some
+- MORE CHEESE 🧀 🧀 🧀 🧀 🧀 
 - keep rack at #4 - it's essential for topping-heavy pizza like hawaiian
 - let it rest and cool
 - sop up extra grease
@@ -216,3 +217,58 @@
 
 - more tender less/same crispy crust
 - determine if the sauce was great because it was denapoli brand or becuase it was crushed not pureed
+
+### 2025/03/20
+
+- BRM artisan bread flour
+- used 565g water (71%)
+- dough: 1393g, 4x348g
+- 8m on #2
+
+- dough was extremely wet. added no flour. very hard to work with, no proper boules.
+
+#### Day 1
+
+> ❗️ Unlike all previous, this dough spent only one night in the fridge, not 2. I think it's the best crust yet.
+
+> Sauce: muir glen organic crushed fire roasted tomatoes, 28oz can + 1 tsp kosher salt. nice dark red color. 
+
+> pizza 0: 217g mozz/cacciacovelli 80:20 plus extra to cover all sauce. Exactly what I was going for - the right amount (or a little too much) cheese, great but not overwhelming sauce, crust floppy until the chewy edge.
+> pizza 1: mozz/swiss/fontina 60:35:5 and canned black olives. in at 525F. Even better than 0. swiss adds even more of the desired texture, at the cost of tasting like swiss cheese on a pizza. even chewier outer crust. took about 12-14 minutes. 
+
+- 1710: dough out
+- 1800: steel on rack 4, preheat 475F "surround"
+- 1900: pizza on.
+- 1919: crust not cooking. raised temp to 500F
+
+
+- minimum 8/10 mozzarella
+- use enough 8/10 mozzarella that no sauce is visible, and then some
+- MORE CHEESE 🧀 🧀 🧀 🧀 🧀 
+- keep rack at #4 - it's essential for topping-heavy pizza like hawaiian
+- ⁉️ lower temp (475-500F instead of 525F) + steel for more NY-style crust
+
+
+- pizzas are taking about 12m to bake
+
+NEXT TIME
+
+- dont proof high hydration dough so long - 1hr is fine
+- MORE heat not less for high hydration dough
+- try for puffier outer crust. less sauce there (not sufficient)? less proofing (likely)? less water? (maybe) handling (not fully sufficient)?
+- make recipe note: use crushed tomatoes for a darker color/flavor, or puree whole for a lighter color/flavor
+
+-> poofier crust: less stretching on knuckles, more shaping on peel. dont make it too big. LOWEWR HYDRATION, clower to 64%
+-> dont make it too big because then it might not fit easily on the steel, and also, crust may not be very poofy
+
+pizza 3 had the best crust of all, by far - so maybe keep the 2 hour proof, or increase it
+
+-> do add trader joe's sun dried tomatoes between sauce and cheese
+-> do use way more semolina than you want to
+-> don't use much fontina, it brings the gooieness you don't like
+-> do use way more oregano/italian herb blend than you think
+-> want thicker bottom, more sauce, more herb flavor in the sauce
+
+!!!! actually there was no swiss cheese
+
+!!! next time: try swiss cheese

@@ -22,7 +22,7 @@ Emma's recipe is formulated for 12% protein soft Italian wheat flour milled to 0
 | ---------- | ------- | ----- |
 | Flour      | 560g    | 100   |
 | Water      | 470g    | 84    |
-| Opt. O-Oil | 13g     | 2.3   |
+| O-Oil      | 13g     | 2.3   |
 | Salt       | 11g     | 2     |
 | I Yeast    | 7g      | 1.25  |
 | **Total**  | 1061g   | 190   |
@@ -30,15 +30,17 @@ Emma's recipe is formulated for 12% protein soft Italian wheat flour milled to 0
 ## Equipment
 
 - USA Pan 9x13 cake pan
-- Proofer
+- Large mixing bowl
 
 ## Directions
 
-### Day 0: 3 hours
+### Day 0: 2.5 hours
 
 > ❗️ "if your dough is dry, don’t be afraid to add more water."
+> ❗️❗️ Actually cover
+> ❗️❗️❗️ No need for proofer
 
-1. In a large bowl combine the water, salt, olive oil and yeast. Whisk.
+1. In a large bowl (❗️ medium shiny is too small ❗️) combine the water, salt, olive oil and yeast. Whisk.
 2. Add flour and mix with spatula until dough is uniform and hydrated. 
 3.❗️ Adjust water if needed!
 4. Scrape down the sides and cover the bowl for 30 minutes.
@@ -55,7 +57,9 @@ Emma's recipe is formulated for 12% protein soft Italian wheat flour milled to 0
 
 > ‼️ To bake same day, skip the fridge and allow 30-40 more minutes of bulk fermentation.
 
-### Day 1: 7000 hours
+### Day 1: 2.5 hours
+
+> ❗️❗️ Actually cover, don't just put in proofer
 
 0. Preheat proofer and pan
 1. 🚨 Add a strip of parchment paper to the pan to create handles for lifting the bread out later.
@@ -72,4 +76,42 @@ Emma's recipe is formulated for 12% protein soft Italian wheat flour milled to 0
 12. Oil hands, dimple dough
 13. Jiggle dough while dimpling to spread out in the pan
 14. Add toppings
-15. Bake for 20-25 minutes, turning once
+15. Bake for 20-25 minutes, turning once, on middle rack
+
+
+## History
+
+### 2025/03/23
+
+#### Day 0
+
+- used KAF bread flour, 12.7% protein
+- 🚨 added 50g extra water (likely too much, oops)
+
+- 0750: MEP
+- 0815: to proofer, covered with plastic wrap, @75F
+- 0845: S+F TURNED PROOFER OFF - very active, don't need proofer
+- 0920: S+F. very active!
+- 0950: S+F. now, not seeming over-wet. still very sticky but good texture and plenty of air.
+- 1020: S+F, to fridge
+- 🚨 1715: replaced plastic wrap with another mixing bowl because the dough had risen to touch the wrap
+
+#### Day 1
+
+> warm day, skipping proofer
+> after 2:45 still seemed underproofed - did not hold dimples or fill pan
+- massive oven spring
+- did not brown too well, though plenty crispy
+- unsurprisingly delicious, but holes aren't substantially better than previous recipe
+
+- 1045: S+F
+- 1050: to USA pan bake pan
+- 1150: oven to 400F "convection bake"
+- 1340: to oven. unconvinced it was proofed enough for huge holes but already did 2:45 of proofing. dimples were not deep.
+- 1406: out after 27m. one turn. 209F internal temp.
+
+#### Next Time
+
+- don't adjust water, try recipe as formulated
+- 3+ hour proof? proof until permanent dimples
+- 420F+ oven temp, not 400 
