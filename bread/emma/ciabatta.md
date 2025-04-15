@@ -50,30 +50,75 @@ Emma's recipe is formulated for 13% protein strong Italian wheat flour milled to
 10. Stretch and fold.
 11. Cover bowl with plastic wrap, put into fridge overnight.
 
-### Day 1: ??????
+### Day 1: 2 hours
 
 > Dough should be very bubbly in the fridge
 
 0. Remove dough from fridge.
-1. Generously dust work surface with flour. Use a sifter to ensure no gaps in flour coverage.
-2. Generously dust couche with flour. Rice flour works well. 
-3. Upend bowl to eject dough on to work surface.
-4. Wet hands.
-5. Quickly and with a light touch, tidy up the dough into a square
-6. Gently and quickly fold in half to form a rectangle
-7. Tuck edges
-8. Cut dough into four loaves
-9. Transfer loaves to couche (see video)
-10. Dust loaves with flour
-11. Fold couche to cover loaves
-12. Proof for at least 20 minute (seems short?!)
-13. Stone or steel to oven (try both! take notes!)
-14. Preheat oven to 450F, convection + steam
-15. Set parchment paper on peel. 🚨 We are baking two batches 🚨
-16. Dough is upside down on couche - so use couch to flip dough onto a bench scraper
-17. Slide dough from scraper on to parchment paper
-18. Launch ciabattas on to stone/steel
-19. 🚨 Steam! 🚨
-20. Bake 15-20 minutes, until deep golden brown
-21. Record internal temp, etc.
-22. Bake the other two loaves.
+1. Stone or steel to oven (try both! take notes!)
+2. Preheat oven to 450F, convection + steam
+3. Generously dust work surface with flour. Use a sifter to ensure no gaps in flour coverage.
+4. Generously dust couche with flour. Rice flour works well. 
+5. Upend bowl to eject dough on to work surface.
+6. Wet hands.
+7. Quickly and with a light touch, tidy up the dough into a square
+8. Gently and quickly fold in half to form a rectangle
+9. Tuck edges
+10. Cut dough into four loaves
+11. Transfer loaves to couche (see video)
+12. Gently stretch loaves
+13. Dust loaves with flour
+14. Fold couche to cover loaves
+15. Proof for at least 20 minute (seems short?!)
+16. Set parchment paper on peel. 🚨 We are baking two batches 🚨
+17. Dough is upside down on couche - so use couche to flip dough onto a bench scraper
+18. Slide dough from scraper on to parchment paper
+19. Launch ciabattas on to stone/steel
+20. 🚨 Steam! 🚨
+21. Bake 15-20 minutes, until deep golden brown
+22. Record internal temp, etc.
+23. Bake the other two loaves.
+
+
+## History
+
+### 2025/04/12-14
+
+#### Day 0
+
+> KAF bread flour
+> bulk in largest mixing bowl
+
+1820: MEP/mix
+1835: hydrate 30m
+1905: S+F
+1940: S+F
+2005: S+F
+2045: S+F, to fridge
+
+#### Day 1
+
+> Using pizza steel on rack 3 (middle)
+
+1045: oven on, 450F convection + steam. pizza steel.
+1045: dough out
+1140: shape
+1150: proof 20m
+1210: first 2 in, burst of steam
+1230: out
+1235: the rest
+
+#### Notes
+
+- first 2 loaves were smaller and more torpedo-shaped than expected from videos/pics (but not from recipe), second got stretched better
+- "creamy" inside or slightly undercooked?
+- this recipe uses a ton of yeast. less-yeast ciabattas might have better flavor but this one has effortless bubbles
+- incredible oven spring on first batch, less incredible on second batch which i stretched a lot
+- internal temp 211F on second batch, but still "kind of gooey" inside
+- thick crust when cooled, maybe too thick: hotter oven should fix
+
+#### Next time
+
+- hotter oven - try 475F
+- scale recipe up
+- shape better

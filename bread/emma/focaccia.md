@@ -63,7 +63,7 @@ Emma's recipe is formulated for 12% protein soft Italian wheat flour milled to 0
 
 0. Preheat proofer and pan
 1. 🚨 Add a strip of parchment paper to the pan to create handles for lifting the bread out later.
-2. Add 3-4 Tbsp olive oil to pan. Don't be stingy.
+2. Add 3-4 Tbsp olive oil to pan. Don't be stingy. Seriously!
 3. Stretch and fold
 4. Place dough into pan
 5. Drizzle with olive oil
@@ -71,12 +71,12 @@ Emma's recipe is formulated for 12% protein soft Italian wheat flour milled to 0
 7. Pan to proofer
 8. Prepare to preheat oven
 9. Proof for 2 hours (only 1 if skipping fridge)
-10. Preheat oven to "Convection Bake", 400F (no steam!)
+10. Preheat oven to "Convection Bake", 420F (no steam!)
 11. Drizzle with olive oil
 12. Oil hands, dimple dough
 13. Jiggle dough while dimpling to spread out in the pan
 14. Add toppings
-15. Bake for 20-25 minutes, turning once, on middle rack
+15. Bake for 20-25 minutes, turning once, on lower rack
 
 
 ## History
@@ -115,3 +115,53 @@ Emma's recipe is formulated for 12% protein soft Italian wheat flour milled to 0
 - don't adjust water, try recipe as formulated
 - 3+ hour proof? proof until permanent dimples
 - 420F+ oven temp, not 400 
+
+
+## 2025/04/07-09
+
+> KAF bread flour
+> No proofer
+
+### Day 0 (2025/04/07)
+
+1115: MEP/mix
+1130: cover
+1205: S+F
+1230: S+F
+1300: S+F
+1340: S+F, to fridge
+
+### Day 1 (2025/04/09)
+
+> even after 3h, not very bubbly or spread out. seemed proofed enough.
+> massive oven spring again, but not even, not bubbly looking
+
+0800: S+F, to hot-water-warmed pan, 3Tbsp oil on bottom, 1tsp oil on top, plastic wrap, couche on top
+1020: oven on to 420F convection bake
+1100: dimple, top
+1105: to oven
+1130: out, 205F internal, total bake time 25m
+
+### Review:
+- crust: not crispy enough
+- crumb: moist, delicious, big holes
+- shape: non-uniform (thinner around edges), fairly bubbly looking esp once cooled
+
+### Next time:
+> Goals:
+>  crispier crunchier bottom crust
+>   could eventually try cooking atop pizza steel (still in cake pan)
+>  bigger, more uniform holes
+>  uniform size
+>  no dense spots
+
+- stick to recipe
+- 3+ hour rest at room temp
+- 48hr in fridge is fine, no diff from 24h
+- build tension in dough at all opportunities
+- spread out at beginning and end, jiggle to spread, don't allow clumps inside
+- continue with KAF bread flour
+- 🚨 preheat oven to 500F for 1 hour, then drop temp to 420F
+- bake longer if needed for crispier crust, at 84% hydration that should be fine
+- aggressive dimpling, jiggle while dimpling
+- brush with olive oil once done
