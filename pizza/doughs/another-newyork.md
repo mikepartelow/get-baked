@@ -124,3 +124,58 @@
 - oregano on top of cheese
 - stick with fire roasted crushed tomatoes
 - when shaping, leave thickness in the middle - shape towards the outside. then when tossing, stretch out the thick middle. stretch even bigger.
+
+### 2025/04/16-17
+
+> KAF bread
+> SAF instant
+
+#### Day 0
+
+- 1900: MEP/mix
+- 1950: knead, shape, to fridge
+
+#### Notes
+
+- forgot to rest after knead
+
+#### Day 1
+
+> steel on 3rd row (labeled 4)
+> "surround" mode 525F
+
+- 1700: dough out
+- the rest
+
+#### Notes
+
+- crust was absolutely perfect: chewy, crunchy, pleasantly burnt, airy
+- a little too thick (not stretched enough) to be true NYC
+- amazing though
+- made a bar pizza and didn't stretch it enough but it was also great. baked 4ish minutes under the steel, then 4ish minutes on the steel (but in a 9x13 lloydpan)
+- last pizza had extra extra cheese, and it was too much: clumped and slid off
+- cheese was 1lb TJ's part skim mozz, .8lb full fat mozz, small amount of freshly shredded pecornino
+- pepperoni could have been crisper
+- 3 amazing, 4th was a little soupy -- extra cheese plus sundried tomato. too much extra cheese
+- cooking on 3rd row, not 2nd, was perfect
+- 6m bake time for the round pies.
+- dough seemed more oily than last time, even though same recipe. however, pizza was amazing, so this is great.
+
+#### Next time
+
+- could change nothing (except don't over-cheese) - excellent as is
+- could try for less charred crust 
+    - not for flavor/texture, since this was great pizza, but for experience/control
+    - use stone not steel
+    - use bake mode not surround mode - no direct heat from above
+- could try for a thinner, more authentic NYC crust: stretch a little more
+- cautiously use less semolina - this dough, covered in flour, sticks less
+
+#### Even if "changing nothing" try this for one or two pies
+
+> Sog reduction:
+
+- Drain the pizza sauce, less liquid. Crushed tomatoes are tinned with water.
+ OR
+- Use whole tomatoes. Discard the canning liquid, pulse in processor for 1-2 seconds
+- Less cheese
