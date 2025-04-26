@@ -51,8 +51,8 @@
 
 #### Ingredients
 
-- 2 28 ounce cans of whole tomatoes, hand crushed and drained
-- 32 ounces of sliced mozzarella
+- 2 28 ounce cans of whole tomatoes, crushed and drained
+- 32 ounces of sliced mozzarella (3 packs of sargento pre-sliced (11 slices each pack))
 - 1 tsp salt
 - 6 Tbsp pecorino romano
 - 6 cloves of minced garlic
@@ -66,7 +66,7 @@
 5. Stretch it in the pan, pressing towards corners. It won't stretch enough.
 6. Cover, let rest 45 minutes.
 7. Stretch again towards corners. Cover.
-8. 🚨 Preheat oven to 450F "convection bake" with one rack on the lowest, one on second lowest, and one rack on the highest. 🚨
+8. 🚨 Preheat oven to 450F "convection bake" with one rack on the lowest, 🚨 with steel 🚨, and one rack on the second highest (remove extra racks) 🚨
 9. Let dough rest 45 minutes, and 🚨 prepare sauce.
 10. Prepare sauce: Hand crush tomatoes, discard juice. Add 1/2 tsp salt.
 11. Mince 6 cloves of garlic and add to 1/4 cups of olive oil.
@@ -76,16 +76,12 @@
 14. Add drained tomatoes to pizza. Don't coat it all, leave some spots uncovered.
 15. Drizzle 3 Tbsp garlic oil, including garlic chunks.
 16. Cook first pizza 6 minutes on bottom rack.
-17. Rotate, move to next rack up.
-18. Add second pizza to bottom rack.
-19. Wait 6 minutes. Rotate bottom pizza. Check top pizza bottom. If well-browned, move to top rack, otherwise, leave on bottom.
-20. Rotate bottom pizza.
-21. Wait 6 minutes. Remove top pizza. Check bottom pizza. If well-browned, move to top rack, otherwise, move to second bottom rack.
-22. 🚨 Sprinkle first pizza with oregano and pecorino. Bake 2 more minutes, preferring top rack.
-23. Remove first pizza after 20 minutes total bake time.
-24. Wait 4 more minutes. Remove second pizza.
-25. 🚨 Sprinkle second pizza with oregano and pecorino. Bake 2 more minutes, preferring top rack.
-26. 🚨 Let pizzas rest 5 minutes before cutting.
+17. Rotate. Cook 6 more minutes.
+18. Check bottom. If browned, move to top rack. If not, keep on bottom.
+19. Cook 6 minutes. Remove.
+20. 🚨 Sprinkle pizza with oregano and pecorino.
+21. Bake 2 more minutes on top rack. Remove and wait 5 minutes before cutting
+22. Repeat for second pizza.
 
 ## History
 
@@ -125,7 +121,6 @@
 
 #### Next time
 
-- omit convection
 - use steel for crispier crust
 - forget about the second lower rack - just do bottom rack ❗️ with steel ❗️ and second top rack
 - check bottom after 12m - if not browned, finish pizza on bottom, don't add second one yet
