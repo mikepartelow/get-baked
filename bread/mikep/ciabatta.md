@@ -14,7 +14,7 @@
 | Ingredient | Mass    | BP %  |
 | ---------- | ------- | ----- |
 | Flour      | 710g    | 100   |
-| Water      | 568g    | 80    |
+| Water      | 568g    | 80    | 👈 80% is better than 90%
 | Salt       | 14.2g   | 2     |
 | I Yeast    | 5g      | .7    |
 | **Total**  | 1297g   | 183   |
@@ -29,7 +29,10 @@
 
 ### Day 0: 50m
 
-1. In a 9x9" glass container, mix all ingredients 1m by hand. Dough should be coarse and sticky, but not lumpy.
+> Use a spatula to stretch and fold. Don't imagine hands will be better.
+
+0. In a mixing bowl, mix dry ingredients.
+1. In a 9x9" glass container, add water. Slowly mix in dry ingredients until dough is coarse and sticky, but not lumpy.
 3. Cover, let hydrate for 10 minutes.
 4. Stretch and fold.
 5. Cover bowl, let sit 10 minutes.
@@ -52,24 +55,24 @@
 7. Quickly and with a light touch, tidy up the dough into a square
 8. Gently and quickly fold in half to form a rectangle
 9. Tuck edges
-10. Cut dough into two large loaves
-11. Transfer loaves to parchment-lined peel
+10. Cut dough into two large loaves. 🚨 Tuck, pinch, and flour the seams!
+11. Transfer loaves to parchment-lined peel, bottom up to expose "ugly" side
 12. 🚨 Gently stretch loaves 🚨
 13. Dust loaves with rice flour
 14. Cover loaves with towel or couche
 15. Proof for 20 minutes
 16. Launch ciabattas on to stone/steel
 17. 🚨 Steam! 🚨
-18. Bake 10-20 minutes, until deep golden brown
+18. Bake 20-25 minutes, until deep golden brown. don't rush it! it cooks slower than you think.
 19. Record internal temp, etc.
 20. Bake the other loaf.
 
 ## Experiments to try
 
-- [x] 90% hydration
-- [ ] 80% hydration
-- [x] 450F oven
-- [ ] 475F oven
+- [x] 90% hydration 👎
+- [x] 80% hydration 👍
+- [x] 450F oven 👎
+- [x] 475F oven 👍
 - [x] bake on steel
 - [ ] bake on stone
 - [x] Emma's handling

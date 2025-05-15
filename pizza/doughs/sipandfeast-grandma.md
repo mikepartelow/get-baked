@@ -43,7 +43,7 @@
 9. Divide into TWO equal parts
 10. Shape into balls, reforming about 20 times, creating tension
 11. Pinch seam side on the bottom
-12. Place balls upside down into oiled container
+12. Place balls upside down into oiled container 🚨 4l cambro works best
 13. Flip balls over to get oil all over
 14. Refrigerate up to 48 hours
 
@@ -126,3 +126,41 @@
 - check bottom after 12m - if not browned, finish pizza on bottom, don't add second one yet
 - since center crust was less best, maybe use a smaller pan? maybe bake longer? steel?
 - try more cheese on part of one pie
+
+### 2025/04/30+2
+
+> used KAF bread flour
+
+#### Day 0
+
+- 2015: mix/MEP
+- 2030: 30m rest
+- 2100: knead
+- 2150: 2x670g boules to fridge
+
+### Day 1
+
+> Used muir glen organic crushed fire roasted tomatoes
+> Used 3 packs of sargento sliced mozz
+> Used 12 cloves (1 full head) garlic
+> Used steel on lowest rack, top rack was 2nd down from top
+
+- 1705: dough out, stretch and pan
+- 1755: stretch dough
+- 1800: 450F "convection bake"
+
+### Notes
+
+- got the crispy crust! perfect! could go crispier/darker even, but not on top
+- ok to leave the pie on the bottom for 12, maybe even 18 minutes
+- center piece was undercooked just a little
+- mushrooms are great! put them on before pie goes in
+- not a huge fan of the sliced mozz
+- not great as cold breakfast - NYC is much better
+
+### Next Time
+
+- use steel!
+- try grated mozz
+- top with mushrooms, sundried tomatoes, and GREEN olives
+- add sweetness: sundrieds?
