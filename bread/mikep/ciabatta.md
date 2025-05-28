@@ -27,21 +27,22 @@
 
 ## Directions
 
-### Day 0: 50m
+### Day 0: 50m-90m
 
 > Use a spatula to stretch and fold. Don't imagine hands will be better.
 
 0. In a mixing bowl, mix dry ingredients.
-1. In a 9x9" glass container, add water. Slowly mix in dry ingredients until dough is coarse and sticky, but not lumpy.
+1. In a 6L Cambro, add water. Slowly mix in dry ingredients until dough is coarse and sticky, but not lumpy.
 3. Cover, let hydrate for 10 minutes.
 4. Stretch and fold.
-5. Cover bowl, let sit 10 minutes.
+5. Cover bowl, let sit 10-20 minutes.
 6. Stretch and fold.
-7. Cover bowl, let sit 10 minutes.
+7. Cover bowl, let sit 10-20 minutes.
 8. Stretch and fold.
-9. Cover bowl, let sit 10 minutes.
+9. Cover bowl, let sit 10-20 minutes.
 10. Stretch and fold.
-11. Cover bowl with plastic wrap, put into fridge overnight.
+11. Work oil between dough and cambro
+12. Cover cambro, put into fridge overnight.
 
 ### Day 1: 2 hours
 

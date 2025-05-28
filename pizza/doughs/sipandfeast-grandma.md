@@ -160,7 +160,47 @@
 
 ### Next Time
 
+
+## 2025/05/14-16
+
+### Day 0
+
+- 2025: MEP/mix
+- 2040: rest 30m
+- 2155: 2x685g boules to fridge in 4L and 6L cambros
+
+
+### Day 1
+
+> 1 large 1 small can of fire roasted tomatoes, DRAINED, plus 1Tbsp honey plus 1 tsp salt
+> 🚨 when strained, need at least 2 large cans.
+> mixed unstrained small can in remaining sauce (no extra salt or honey)
+> mozz was hand-shredded TJ's half-skim 
+
+- 1710: out
+- 1715: resting covered
+- 1805: shaped, 45m rest, oven on
+
 - use steel!
 - try grated mozz
 - top with mushrooms, sundried tomatoes, and GREEN olives
 - add sweetness: sundrieds?
+
+
+### Notes
+
+- Nailed the crust on the first one! 12m on the stone, 6m on 2nd to top. very crispy bottom, very brown cheese
+- Second one had pepperoni and less honey in the sauce. Amazing crisp edges, foccacia like crumb with floppy browned bottom, layers of flavors
+- Honey was a lovely addition, also good with less of it!
+- It's great to bite into a tomato pocket
+- 🏆 likely best pizza of any style ever so far that I've baked
+
+
+## Next Time
+
+- shreddeed mozz FTW
+- honey in the sauce
+- 2 big sauce cans
+- for crispy crust, strain sauce. for crispy edges plus foccacia like middles, don't strain sauce
+- don't need sundrieds
+- rest on a rack so the bottom doesn't get soggy before cutting

@@ -76,3 +76,35 @@
 - for second loaf, more folding and flipping to reduce oversized holes. try reinhart's envelope
 - full browning
 - that's it!
+
+## 2025/05/17-18 or 19
+
+### Day 0
+
+1845: MEP/mix
+1855: hydrate 10m
+1907: S+F
+1928: S+F
+1951: S+F
+2015: S+F, add oil and work under dough, to fridge
+
+### Day 1
+
+- 1000: dough out, oven on 475F convection bake + steam
+- 1115: divide, shape, rest
+- 1135: first loaf in, steam
+- 1155: first loaf out
+- 1157: second loaf in, steam
+
+### Notes
+- SECOND loaf had large separation bubbles at top
+- proofed 20m on couche, transfered to parchment/peel by hand
+- good crumb, medium sized holes, no oversized holes
+- PROBABLY the 4l cambro and removal therefrom popped any huge holes
+- perfectly good as-is. extremely easy recipe
+
+### Next Time
+
+- proof on couche
+- STRETCH to uniform height before proofing
+- stretch again when transfering to peel
