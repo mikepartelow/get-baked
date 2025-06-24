@@ -108,3 +108,37 @@
 - proof on couche
 - STRETCH to uniform height before proofing
 - stretch again when transfering to peel
+
+
+## 2025/05/29-31
+
+> | Ingredient | Mass    | BP %  |
+> | ---------- | ------- | ----- |
+> | Flour      | 710g    | 100   |
+> | Water      | 568g    | 80    | 👈 80% is better than 90%
+> | Salt       | 14.2g   | 2     |
+> | I Yeast    | 5g      | .7    |
+> | **Total**  | 1297g   | 183   |
+
+### Day 0
+
+- 2100: dough to 6L cambro
+
+### Day 1
+
+- 1515: dough out on silpat, out of bucket, oven on 475F convection bake + steam, steel on middle
+- 1638: first loaf to oven. spritzed with water mister first. burst of steam.
+
+### Notes
+
+- crumb too dense
+- too floury
+- only one big bubble
+- bland!
+
+### Next Time
+
+- minimize handling
+- deffo do not stretch or invert
+- longer thaw
+- Watch the dough, not the clock -- look for **visible bubbles and a puffed-up, jiggly texture** before shaping.

@@ -23,7 +23,7 @@
 
 ## Equipment
 
-- 9x9" square glass proofing container
+- 6L cambro
 
 ## Directions
 
@@ -31,8 +31,8 @@
 
 > Use a spatula to stretch and fold. Don't imagine hands will be better.
 
-0. In a mixing bowl, mix dry ingredients.
-1. In a 6L Cambro, add water. Slowly mix in dry ingredients until dough is coarse and sticky, but not lumpy.
+0. In a very large mixing bowl, mix dry ingredients.
+1. Add water. Slowly mix until dough is coarse and sticky, but not lumpy.
 3. Cover, let hydrate for 10 minutes.
 4. Stretch and fold.
 5. Cover bowl, let sit 10-20 minutes.
@@ -41,32 +41,31 @@
 8. Stretch and fold.
 9. Cover bowl, let sit 10-20 minutes.
 10. Stretch and fold.
-11. Work oil between dough and cambro
+11. Oil a 6L cambro. Add dough top side down and cover with oil. Flip and cover other side with oil.
 12. Cover cambro, put into fridge overnight.
 
-### Day 1: 2 hours
+### Day 1: 3 hours
 
-0. Remove dough from fridge.
-1. Stone or steel to oven (try both! take notes!)
-2. Preheat oven to 475F, convection + steam for 1 hour
-3. Generously dust work surface with flour. Use a sifter to ensure no gaps in flour coverage.
-4. Line a peel with parchment paper.
-5. Upend bowl to eject dough on to work surface.
-6. 🚨 Do not flour the dough 🚨
-7. Quickly and with a light touch, tidy up the dough into a square
-8. Gently and quickly fold in half to form a rectangle
-9. Tuck edges
-10. Cut dough into two large loaves. 🚨 Tuck, pinch, and flour the seams!
-11. Transfer loaves to parchment-lined peel, bottom up to expose "ugly" side
-12. 🚨 Gently stretch loaves 🚨
-13. Dust loaves with rice flour
-14. Cover loaves with towel or couche
-15. Proof for 20 minutes
-16. Launch ciabattas on to stone/steel
-17. 🚨 Steam! 🚨
-18. Bake 20-25 minutes, until deep golden brown. don't rush it! it cooks slower than you think.
-19. Record internal temp, etc.
-20. Bake the other loaf.
+🚨 Do not stretch or rough house the dough.
+
+0. Remove dough from fridge. Eject dough on to silpat.
+1. Generously dust work surface with flour.
+2. Quickly and gently, shape dough into a square. Squishing OK, stretching not OK!
+3. Let rest 1 hour
+4. Steel to oven
+5. Preheat oven to 475F, convection + steam
+6. Let rest 1 hour. 🚨 Dough should be bubbly and jiggly. 🚨
+7. Cut dough into two large loaves. 🚨 Tuck, pinch, and flour the seams!
+8. Gently transfer dough to floured couche. Use couche walls to shape the dough. 👈
+9. **Lightly** dust top of dough with flour and cover with couche.
+10. Proof 20m
+11. Line a peel with parchment paper.
+12. Gently transfer one loaf to peel
+13. Launch ciabatta on to stone/steel
+14. 🚨 Steam! 🚨
+15. Bake 20-25 minutes, until deep golden brown. don't rush it! it cooks slower than you think.
+18. Record internal temp, etc.
+19. Bake the other loaf.
 
 ## Experiments to try
 
