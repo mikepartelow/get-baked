@@ -46,6 +46,8 @@
 
 #### Make Sauce
 
+> ⚠️ It's best to make sauce on the same day as the dough. Both will improve with nights in the fridge.
+
 1. Blend tomatoes, garlic, olive oil, and salt until smooth
 2. Heat 2Tbsp olive oil in a large pan. 
 3. Add blended sauce and simmer, stirring occasionally, until reduced by half: 30-40m
@@ -133,7 +135,7 @@
 - could upskill on handling and have huge bubbles. really delicious!
 - not very salty, could use more brine
 - really outstanding: chewy crumb with gummy/crispy crust. delicious sauce.
-- did only a few slices with the second layer of sauce. both styles were outstanding.
+- did only a few slices with the second layer of sauce. both styles were outstanding. second layer was best, especially next day.
 - underwhelming holes
 - burnt sauce was delicious
 - kind of an absurd amount of olive oil in the dough
@@ -145,3 +147,4 @@
 - sauce to edges to get more burnt bottoms
 - try part with more oregano
 - someday try strained fire roasted in clumps like grandma pizza
+- second coating (post-oven) of sauce is delicious, don't skip it
