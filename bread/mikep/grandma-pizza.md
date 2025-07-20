@@ -154,7 +154,7 @@
 
 ---
 
-
+- 🚨🚨 only 1Tbsp honey (not two!) per 2 large tomato cans
 - 🚨 crank heat and let steel warm up 10m between pizzas 🚨
 - 🚨 lower heat back to normal for second pizza 🚨
 - ensure enough oil in second pan
