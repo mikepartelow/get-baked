@@ -146,5 +146,13 @@
 - more brine. use spray bottle
 - sauce to edges to get more burnt bottoms
 - try part with more oregano
-- someday try strained fire roasted in clumps like grandma pizza
 - second coating (post-oven) of sauce is delicious, don't skip it
+- pastier sauce : strain tomatoes before making sauce
+
+you can leave the very corners (about the size of a quarter) unoiled and when you later spread the dough to fill the pan, it will stick just in these areas, which will help it keep it’s shape.
+
+### Some Day
+- try strained fire roasted in clumps like grandma pizza
+- try 64% hydration dough
+- try phased application of baked sauce: 0-7m no sauce, 7-14m covered with half the sauce, 15-21 covered with the rest of sauce
+- try "laced" edges - sauce right up to the pan edge
