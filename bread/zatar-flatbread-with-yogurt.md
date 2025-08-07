@@ -62,7 +62,7 @@
 
 ### Day 0
 
-> Estimated time: 120 minutes
+> Estimated time: 80 minutes until dough-in
 
 1. Preheat proofer to 75F.
 2. Mix dough.
@@ -81,3 +81,28 @@
 15. Bake for 5-6 minutes, until lightly browned, without burning za'atar.
 
 ## History
+
+### 2025/07/26
+
+> Used BRM unbleached white AP
+> Used Green Land Food Zatar Moloki
+> Used Greek Gods plain NONFAT
+> proofed at room temp, 21C
+
+- 1700: MEP/mix
+- 1715: knead in bosch compact, speed 2, 9m. not at all passing windowpane, very loose dough.
+- 1730: 754g after rolling in AP flour on silpat. divided into 3 x 250g, proofed room temp (21C) in pizza ball containers
+- 1815: oven on. 525F surround, steel on #3 (middle), rack on #1 (bottom)
+- 1922: pies in. one very thin peel pie, one 10" circle pan, one 9x13" pan.
+
+#### Next Time
+
+- use bread flour
+- make an overnight dough, and use much less yeast
+- instead of surround, use convection bake - heat from top will burn zatar, 525F on steel is too hot
+- increase dough hydration
+- ensure uniform oilness of zatar topping - this time, only the first pie topped had oily zatar, which prevented zatar burning
+- consider more oil in the zatar topping
+- don't overbake the steel-top one
+- ok to use pans but split dough further, don't want thick zatar pie
+- find a new recipe
