@@ -14,15 +14,15 @@
 
 ### Baker’s Percentage
 
-| Ingredient      | Baker’s %   | Mass        |
-| --------------- | ----------- | ----------- |
-| Flour           | 100%        | 500g        |
-| Water           | 88%         | 440g        |
-| Olive Oil       | 5%          | 25g         |
-| Salt            | 2.2%        | 11g         |
-| Instant Yeast   | 0.25%       | 1.25g       |
-| --------------- | ----------- | ----------- |
-| Total           | 195.85%     | 979.25g     |
+| Ingredient    | Mass    | Baker’s % |
+| ------------- | ------- | --------- |
+| Flour         | 500g    | 100%      |
+| Water         | 440g    | 88%       |
+| Olive Oil     | 25g     | 5%        |
+| Salt          | 11g     | 2.2%      |
+| Instant Yeast | 1.25g   | 0.25%     |
+| ------------- | ------  | --------- |
+| Total         | 979.25g | 195.45%   |
 
 ## Directions
 
@@ -78,6 +78,31 @@
 
 ### 2025/08/08
 
-> dough was jiggly, massively bubbly, strong alcohol smell. could easily bake it right away
+> dough was jiggly, massively bubbly, lots of visible gluten, strong alcohol smell. could easily bake it right away
 
 - 0945: 4 dough blobs, 238g each, to fridge
+
+### 2025/08/10
+
+> dough was very very wet (duh!) not "balls" at all
+> dough was very delicate and tore in one place
+> could probably use 2-3x more dough for an interesting different result!
+
+- 1505: dough out. room temp 20C
+- 1730: dough to oiled pans
+- 1735: prepared sauce: garlic, tomatoes, salt, blended
+- 1835: turn on oven, 475F "convection bake", stretch dough
+- 1945: out after 15m
+
+#### Notes
+
+- dough was overproofed and there was way too little of it to be focaccia, however...
+- all excellent, none like focaccia - all "flatbreads"
+- rosemary and zatar were cracker-like, esp esges
+- all too oily, especially rosemary and zatar
+- philly and pizza were very crispy and amazing. both laced edges. 50/50 white cheddar mozz on the pizza
+- 🚨 try again doubling or tripling dough
+- could make four excellent pizzas with this recipe as-is (but try with more dough to see what that's like)
+- crackery crust. philly pie was amazing.
+- zatar is half/half **by mass** not by volume
+- zatar was least best. too oily. not enough herb blend.
