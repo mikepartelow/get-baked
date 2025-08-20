@@ -1,6 +1,6 @@
-# Focaccia Four Ways
+# Flatbread Four Ways
 
-> Using four 10" pizza pans, we'll use the same dough to make rosemary focaccia, Philly tomato pie, za'atar bread, and pizza.
+> Using four 10"x1" pizza pans, we'll use the same dough to make rosemary flatbread, Philly tomato pie, za'atar bread, and pizza.
 > We use a 72ish hour bulk fermentation.
 
 
